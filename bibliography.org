@@ -1,0 +1,84 @@
+#+TITLE: Bibliography
+#+CATEGORY: Librarian
+#+TAGS: default bibliography
+
+* BOOK Modern Leatherwork for Makers
+  :PROPERTIES:
+  :CITEKEY: Deagan2017
+  :TITLE: Modern Leatherwork for Makers
+  :AUTHOR: Tim Deagan
+  :YEAR: 2017
+  :PUBLISHER: Maker Media Inc.
+  :STREET: 1700 Montgomery St.
+  :SUITE: 240
+  :CITY: San Francisco
+  :STATE: CA
+  :ZIP: 94111
+  :ISBN: 978-1-680-45320-1
+  :KEYWORDS: leatherwork maker
+  :END:
+
+* BOOK Making Things Move
+  :PROPERTIES:
+  :CITEKEY: Roberts2011
+  :TITLE: Making Things Move -- DIY Mechanisms for Inventors, Hobbyists, and Artists
+  :AUTHOR: Dustyn Roberts
+  :PUBLISHER: McGraw Hill
+  :ISBN: 978-0-07-174168-2
+  :YEAR: 2011
+  :KEYWORDS: simple machines mechanisms
+  :END:
+
+* INPROCEEDINGS Differential Privacy and the People's Data
+  :PROPERTIES:
+  :CITEKEY: Dwork2019
+  :TITLE: Differential Privacy and the People's Data
+  :AUTHOR: Cynthia Dwork
+  :YEAR: 2019
+  :ORGANIZATION: IACR
+  :NOTE: IACR Distinguished Lecture
+  :CITY: Darmstadt
+  :COUNTRY: Germany
+  :END:
+* VIDEO Triage: Dr. James Orbinski's Humanitarian Dilemma
+  :BIBLIOGRAPHY:
+  :CITEKEY: Orbinski2008
+  :TITLE: Dr. James Orbinski's Humanitarian Dilemma
+  :ORGANIZATION: Medecins Sans Frontieres
+  :YEAR: 2008
+  :DIRECTOR: Patrick Reed
+  :URL: [[https://www.doctorswithoutborders.org/who-we-are/films-about-msf/triage-dr-james-orbinskis-humanitarian-dilemma]]
+  :END:
+** Abstract
+
+  The massive suffering documented in Triage: Dr James Orbinski's Humanitarian Dilemma is difficult to watch, but it reiterates Orbinski’s overall message:
+
+  that the only way to improve human conditions is to acknowledge hardship and to take moral responsibility for the prevention and alleviation of international atrocities.
+
+  Directed by Patrick Reed, this enlightening documentary portrays Orbinski as both the heroic winner of the 1999 Nobel Peace Prize’s for his work with NGO, Médecins Sans Frontières, and as an anti-heroic existentialist, whose cynicism towards failed government interventions impels him to travel the world in aid of those most unfortunate.
+
+  As a result, ample interview footage of Dr. Orbinski’s recounting witness to the Somalian famine and the Rwandan genocide, edited with past video footage he shot during and after his African experiences, makes for gruesome viewing that may be too disturbing for some.
+
+  That said, appalling scenes in Triage are clearly meant to educate rather than to promote hopelessness.
+
+  As Orbinski returns to both countries to visit memorials and to chat with survivors who remember being healed or even saved by this brave doctor, one understands Orbinski’s definition of true humanitarianism not as cowboy rescue tactics but as engagement with a community.
+
+  Scenes depicting his multi-faceted approach to helping others, ranging from fundraising to field work to authoring his book that is now available, An Imperfect Offering:
+
+  Humanitarian Action for the Twenty-First Century, prove Orbinski’s dedication while illustrating what charitable work entails. Interviews with his wife, Rolie, and international affairs analyst, Gerald Caplan, further rescue Triage from being too heavily focused on Orbinski’s distressed processing of past traumas.
+
+  This film,  and now the book,  offer answer to  a question Orbinksi  poses midway through his  remembrances, that is,  how can one  make rage useful? Orbinksi’s  brand of
+activism may not be for all of us, but it does compel one to question the repercussions of one’s own actions.
+
+** Quotes
+  #+begin_quote
+    The existence of MSF is predicated on a refusal to accept the unacceptable
+  and that by definition means being free and using your liberty in a very particular way; and trying to stay out of the established corridors of power.
+
+  Which doesn't mean that you don't walk through them, it means you don't become them.
+
+  If you simply locate your responsibility within the realms of compassion, you can call that humanitarianism and many people do. But, its a brand of humanitarianism pasteurized, homogenized of its political importance.
+
+  You also have a responsibility as a citizen to address the politics that have created those causes and conditions.
+
+  #+end_quote

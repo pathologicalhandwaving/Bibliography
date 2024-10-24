@@ -1,0 +1,24 @@
+\documentstyle{article}
+
+\usepackage{amsthm}
+% Not required for bibtex 
+
+\begin{document}
+
+\nocite{citeKey}
+\cite{citeKey}
+
+\begin{thm}
+Some theorem \cite{citeKey} 
+\end{thm}
+
+
+
+% unsrt with cite/nocite makes bibliography appear in the order the cite commands appear
+\bibliographystyle{unsrt}
+
+% You can list more than one external bib file
+\bibliography{bib1,bib2}
+
+
+\end{document}
