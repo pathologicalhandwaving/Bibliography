@@ -1,0 +1,1744 @@
+.. :.-..
+F ID :A523696 TOP SECRET
+UNITED STATES CRYPTOLOGIC HISTORY
+(U) American Cryptology during the Cold War, 1945-.1989
+(U) Book III: Retrenchment andReform, 1972-1980
+Derived From:
+Declassify on: CCH-S54-9!H)1
+TOP SECRET
+DECLASSIFIED UNDER AUTHORITY OF THE lNTERAGENCY SECURITY CLASSIFICATION APPEALS PANEL. E.O. 13526, SECTION 5.3(b )(3)
+ISCAP NO.1.6M-02.1 ,Document 7. Date ...}UL.'"1 z". ~,~
+
+
+ DOCID:523696 REF ID:A523696
+.J
+This monograph is a product of the NationalSecurity Agency history program. Its contents and conclusions are those of the author. based on original research. and do not necessarily represent the official views of the National Security Agency. Please address divergent opinion or additional detail to the Center for Cryptologic History (8542).
+This document is not to be used as a source
+for derivative classification decisions.
+
+
+ DOCID: 523696 REF ID:A523696
+TOP SECRET tfMBRA
+UNITED STATES CR YPTOLOGIC HISTORY
+Series VI The NSA Period 1952 - Present Volume 5
+(U) A merican. Cryptology during the
+Cold War, 1945-1989
+.(U) Book Ill: Retrenchment and Reform, 1972-1980
+. Thomas R. Johnson
+CENTER FOR CRYPI'OLOGIC ffiSTORY
+NATIONAL SECURITY AGENCY
+1998
+"
+W"'N9t.E 'II'" ThbE~rr KEVH~LlS eOMIN'%' eOU'PROb S'lS'fI!lMSJOIU'fLY
+TOP SECRET UMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+rop SECRET UMBRA
+Table of Contents .
+Page
+Foreword :......................................... vi Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. vii Acknowledgments IX
+(U) BOOK III: RETRENCHMENT AND REFORM, 1972-1980
+(U) Chapter 14: Cryptologic Retreat from Southeast Asia
+The War Is Vietnamized 1 The Fall of Saigon ,'" 3 Hanoi's Final Campaign .' ' , 3 TheFallofDaNang : : 5 The Fall of Phnom Penh , 7 The Fall of Saigon 9 The Summing Up 15
+I.
+The . '.
+Mayaguez ' .' , 15
+(U) Chapter 15: Downsizing.
+The Great RIF Scare ; , :....... 21 The Clements Cuts :............. 24
+The Field Sites ; , . .-................. 26 Turkey :.................................................. 27 Ethiopia ; : ..'......................................... 31 Thailand '. . . . . . . . . . . . . . . . . . . .. 34 Closures and Consolidations :.:............... 37 TacticalSystems 38 Remoting - :............................ 38 Tennis : . . . . . . . . . . . . . . . .. 38
+Ora wstring ; :.. 41,,-' .,.--------,
+44 Withheld from 45 public release
+11
+AROF , 49 Pub. L. 86-36 BROF : 50 Remoting the Small Sites : ~. . . . . . . . . . . . . . . .. 51 Guardrail .. : : ,............................ 55 Reorganization ,.,........................................................ 57 The Fitzhugh Panel 57 . The Schlesinger Study 58 CSS 59 The Murphy-Commission .'......................... 65
+IIANBUl ;'fA 'f'AUllff ItEYHObE eOMm'f' eON'fROL SYS'fEMS ,JOINTJ;. Y
+III TOP. SECRET UMBRA
+
+
+ DOClD: 523696 REF lD:A523696
+l!OP SECRET UMBRA
+The Hermann Study 66 The U rsano Study 6~ The Creation ofESC . .'. . . . . . . . 72
+(U) Chapter 16: Cryptology and the Watergate Era
+Background to Scandal 79 NSA and Clandestine Activities " .. 83 Shamrock , " 83 Minaret 84 Clandestine Methods 86 The Huston Plan 87 The White House Tapes ." " ".... 88 The Allen Era at NSA ' ' '" ., , . 89 The Church Committee 91 The Pike Committee 95 The Abzug Committee , ,................. 98 The Backwash 100 The Revelations .. '. . .. .. . . . .. .. .. . . .. .. . .. .. . .. . . .. . . . . . . . . . . . 100 Glomar Explorer 101 Koreagate 102 Executive Order 11905 :.......................................... 105 Congressional Oversight ,. 107 The Enabling Legislation " •.... The Enigma Revelations : ~,...... 109
+w The Impact of Watergate :. 112,
+(J)
+~N~ (U) Chapter 17: The New Targets and Techniques
+'g="~n.f->_--_ ..~.~==============~==============================~I
+.:,~S:....:tr::.:a::.:t;.:::.e5l:Iti·:.:.c..:..A.:.::..r.,......,.:.::..,.:m:...:.,....;!•,:..s.:...:.....,.:•,.'.L.•:,..•=:•..i:..,=.•,...• m:,..::.:.:.....i:•'.t.!,:.,::...:a:..::'•...:.:,:.,:t..i. ::..:=' •..o.:.•...:!.•.!.:.n..:'•.-..:-.•...:.:...:.";'..•..:.:.•,. ....:;,. :";' .:...:•...:.•. .:..,. '-'-," 117'
+119
+-~ 125 Withheld from
+-e ~5 public release
+1~ Pub. L. 86-36
+~ 1W
+132 134 ComsatlIntelsat . 134 The A Group Secession : . 137 Cryptologic Communications in the Post- Vietnam Era . 140 COMSEC and the Secure Voice Problem . 142 The Soviet Threat . 144
+The Solutions , ; . 145
+NSA Computers Enter the 1970s : . 151 The Era of Mainframes . i51 Platform ' , . 155 NSA's Foreign Collaboration , , . 155
+Great Britain . 157
+108
+HANDLE VIA TALENT KEYII6LE C6MINT CON'mOI:. SYSTEMS .JOINTLY
+TOP SEEREHIMBRA iv
+
+
+ DOClD: 523696 REF lD:A523696
+leP SECRETI;JMBftA
+Australia · . 159
+I Third Party Proll!)lms . 162
+111666455
+166
+Withheld from public release Pub. L. 86-36
+(U) Chapter 18: The Middle East and the Yom Kippur War
+Background to War :........... 175
+The Preparations 178
+The Bunker Briefing 179 The Attack 181
+The Postmortems 183
+(U)Chapter 19: The Rebirth ofInteUigence during the Carter Administration
+The Inman Era 189
+The Carter White House 193
+The War between the Admirals 196
+Apex 198
+The New Executive Order : :........ 199
+Panama 199
+SALT II ,................................. . 202 HF Modernization :...................... 206
+The HF Studies . 206
+Inman Comes In 208
+Kunia : ; . . . . . . . . . . . 210
+Conventional Signals Upgrade , 215
+Bauded Signals Upgrade 215
+The Perry Study t. • • • • • • • • • 217
+The Wagner Study 220
+Bauded Signals Upgrade - the Project 221
+The Third World Situation 223
+The Peace Treaty with CIA 224
+'Poetic ;.......... 227
+The HAC Investigation and the Negotiation of a Peace Treaty . 228
+I I 230
+Peace Treaty ~ , 231
+Public Cryptography 231
+·(U)Chapter 20: The Foreign Policy Crises of the Carter Years
+.The Iranian Revolution 245
+The Soviet Invasion of Afghanistan . . . . . . . . . . . . . . . . . . . . . . . . . 250
+The Sino-Vietnamese Dispute ; 254 The Soviet Brigade in Cuba ~.. .. .. . .. . . .. . .. . . .. . .. 256
+The Final Days 259
+I1ANBLi!l VIA 'Hdl!N'f KEynOl::E eeltflU'f eeN'fROL S'IM'EMScJOUR'LY
+v T6P SECRET UMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+fOP SECRET I;fMBRA
+Foreword
+(U) The publication in 1995 of Books I and II of American Cryptology during the Cold War by Dr. Thomas Johnson created the NSA equivalent of a "best seller." Books I and II were distributed widely to offices and individuals and have been used as textbooks in courses at the National Cryptologic School. These two volumes filled a great need in the U.S. intelligence community for a comprehensive treatment of'cryptologic history.
+(U) The first book in the projected four-volume series dealt with the origins of modern American cryptology , particularly its organizational struggles in the 1940s and the great debates over centralization. The second book resumed the narrative in 1960, showing how the great strides in communications and overhead technology changed, renewed, and energized the cryptologic organizations. In both volumes, Dr. Johnson analyzed the successes and failures of cryptologic activities as well as support to national decision makers. Book II also gave an overview of cryptologic operations during the Vietnam War.
+(U) Book III, which discusses and analyzes cryptologic operations from the fall of Vietnam through 1980, promises to have an impact on our knowledge and eryptologie education equal to its predecessors. This was a period of retrenchment in budgets and personnel, a period of shocking public revelation of improper intelligence activities, the beginnings of declassification about intelligence activities, and a period of technology changes that rivaled those of the previous eras.
+(U) This is to say, Book III deals with the period of cryptologic history that, as much or more than previous times, determined the shape and capabilities of the cryptologic organizations of our own day. For this reason, the Center for Cryptologic History recommends Book III, American Cryptology in the Cold War: Retrenchment and Reform, 1972·1980, as especially important professional reading for all members ofthe intelligence community today. Plus, it'~ a darn good story. 
+DAVID A. HATCH Director, Center for Cryptologic History
+llAHf)LE ,{IA 'fALE!.'f KE'WOLE COldU('f CONTROL SYS'l'EMS ofOUffLY
+.,
+TOP SECRET UMBRA vi
+
+
+ DOCID: 523696 REF ID:A523696
+TOP SECRET I:JMBR:.tc
+Preface
+(TS ceO) Expansion and centralization dominated American cryptologic history from the end ofWorld War II to the end of the first Nixon administration. From 1945 through at least 1970, cryptolo.gyforged ahead in a virtually unbroken expansion of people, facilities and influence in the halls of government.'
+Withheld from
+public release I E.O. 13526, section 1.4(c) I
+Pub. L. 86-36 , The paradox (true in general but not in particular instances) resulted from the exploitation of everything else that was important about adversary communications, and from the enforced centralization and modernization of the cryptologic system to milk everything possible from that which was exploitable. Successes were most pronounced on the SIGINT side but were also noteworthy in COMSEC.
+..rer The decade of the 1970s is remembered by most cryptologists as a scarcely mitigated disaster. Expansion came to a halt, beginning with the withdrawal from Vietnam from 1970 to 1975. The cryptologic system contracted in every way possible: people, facilities and money. Through. the administration of three presidents - Nixon, Ford and Carter - the downsizing continued.
+(U) Nixon's resignation in August of 1974·was followed only five months later by exposure of CIA operations by journalist Seymour Hersh. The result was a thorough airing of intelligence operations, including some by NSA, before two congressional committees, and further ignominy and public suspicion of intelligence and cryptology. Jimmy Carter came to the White House with a mandate to clean out the intelligence closet .--- -and a predisposition to do so. He set to it with a will. I Withheld from
+E.O. 13526, section 1.4(c) public release
+-,
+Pub. L. 86-36
+~·eC()) But the days were not as dark as they seemed. I
+1L...- ...J1 Even with decreased money,.cryptology was yielding the best information that it had produced since World War II. Two strong directors, LewAllen and Bobby Inman, ably steered NSA through the post-Watergate mire. In the end, Jimmy Carter became a believer in intelligence, especially what was called in the White House "technical intelligence." It was he, rather than Ronald Reagan, who first arrested the decline in the fortunes of American intelligence.
+(U) Reagan, who never understood intelligence as well as Jimmy Carter came to understand it,still had his heart in the right place. He directed an intelligence rebirth that resulted in a bonanza of money. The new 'dollars were shoveled into .highly sophisticated technical systems rather than into more people (although cryptology did add
+IIM,BLE VIA 'i'ALEN'f KEYIl6LE C6MINT C6N'fR6L S"l"S'ff)MSdOftl'FL'I
+vii TOP SECRET UMBRA
+,
+
+
+ DOCID: 523696 REF ID:A523696
+lOP SECRET UMBRA
+some billets). By the end of the Cold War in 1989 the cryptologic system had lots of shiny new toys, and was using them to very telling effect. The decade of the 1980s marked the high-water mark of a cryptologic system that had been in evolution since 1945. And it had .a presidential administration that believed in it.
+THOMAS R.JOHNSON
+JIANBbE '!b\ ftd:J!lNT KEl'.l'1I0btl COMIN'f CONTROl:; SYSTEMS 1f00PiTL'f
+I-Ur ~C •••nC I U.V.DKA viii
+
+
+ DOCID: 523696 REF ID:A523696
+TOP SECRET UMBRA
+Acknowledgments
+(U) A work of this size cannot be produced without the labors of many people whose names are not on the title page. Among them are NSA's archival and records management staff, with whom I have worked closely over the past ten years to find the needed files of material. Two research assistants, Yolande Dickerson and Rowena Clough, helped ferret out materials .. My thanks also go to the librarians and archivists at the presidential libraries who spent long hours in dingy basement vaults while I toiled through the national security files looking for reflections of cryptologic information. I especially want to thank Donna Dillon at the Reagan Library, Leesa Tobin at the Ford Library, and Martin Elzy at the Carter Library, but others on their staffs also assisted.
+(U) The mapmaking was handled by 1 1 and 1 I· Numerous people in NSA's photo lab helped get the pictures ready for Iinalpublicaticn. The Center for Cryptologic History's editorial staff of Barry Carleen, Barbara Vendemia, and Jeannette Gannaway probably spent more time than anyone getting the book ready for publication.
+(U) The book had many readers and consultants. Most important were Milton Zaslow, Eugene Becker, and Richard Bernard, all retired NSA officials who volunteered their time to read, correct, and advise.
+(U) Countless people agreed to oral history interviews to further the progress of the book. I especially want to thank four former directors: General Lew ABell, Admiral Bobby Inman, Lieutenant General Lincoln D. Faurer, and Lieutenant General William Odom, all of whom were willing to dedicate their time to set the record straight on important issues with which they were concerned. (Admiral Inman has sat for no fewer than four interviews over the years.) George Cotter and Robert Hermann provided unique information and seasoned judgments. John Devine and Marlin Wagner both gave important testimony on Bauded Signals Upgrade. The list of interviewees in the bibliography section is filled with the names of people who have provided detailed information on a host of projects and organizations. Much of these two books could not have been written without oral histories.
+-'S COat Finally, I was given access to two special collections which provided
+information of unique value. I I the last incumbent in the old Soviet analysis office, A2, provided the executive files accumulated by him and his predecessors over a number of years. Loyd Luna: of the Executive Registry loaned executive files of the deputy directors - this was generically the most valuable set of files used in the preparation of the four-book set.
+THOMAS R. JOHNSON
+HANBfaE 'HATALSN'f' KFJ¥1JOf;:8 eo MINT eON'fROL S¥S'fEMSJOIN'fI:.¥
+Withheld from public release Pub. L. 86-36
+Withheld from public release Pub. L. 86-36
+ix TOP SECRET UMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+TOP SECRET UMBRA
+U •••N• BbE VIA 'lYcLEto."f KEl'm6LE C6MIN'f CON'fROL SYSTeMS ofOlK'fLY
+lQP SECRET UM8RA
+
+
+ DOC,ID: 523696 .REF ID:A523696
+TOP 5!(;RET UMBRA
+(U)Chapter 14
+Cryptologic Retreat from Southeast Asia
+Withheld from
+.ro1 Direct American involvement in Vietnam endedI with the cease-fire of February
+. I public release
+1973. The Vietnamese were left to struggle on alone. Pub. L. 86-36
+I. I
+(U) THE WAR IS VIETNAMIZED
+.{s ceer The cease-fire that took effect in February of 1973 required that all U.S. military people be out of the country. The cryptOlogic infrastructure was already safely in Thailand, but the NSA office in Saigonhad to remain to provide support to the ambassador
+I I. Moreover, NSA was committed to advising the South Vietnamese SIGINT service, renamed the DGTS (Directorate' General of Technical Withheld from
+Security). There were NSA advisors at each of the major DGTS field sites and as DoD public release
+Pub. L. 86-36
+people, they were technically illegal according to the peace accords.
+I E.O. 13526, section 1.4(c)
+.(S CeOr-As soon as Americans were out of South Vietnam, support for the military budget was reduced. The 1974 cryptologic budget almost dropped off the edge of the table, as major field sites as well as small covert operations took huge decrements. The Air Force . EC-47 operation was discontinued in May of 1974, replaced by the much smaller remnants of the ASA U-21 program. ACRP programs declined by 50 percent, as many programs were either canceled or reduced. SARACEN, the remoted intercept operation in Laos, was . closed in April, and the huge ASA station at Ramasun was ratcheted down by about 40 percent."
+(8 CeO) The actual effect of the cryptologic drawdown varied by entity. It was most . severe on North Vietnamese civil traffic, which could no longer be heard by reduced RC135 operations forced to fly south of the 17th parallel. NSA also reported substantial reductions in its capability to monitor GDRS (General Directorate of Rear Services, and . thus infiltration) traffic. On the other hand, the ability to report on North Vietnamese air defense traffic suffered little or no decline."
+(U) In Vietnam, South Vietnamese military capability did not toughen up as fast as the Nixon administration had hoped, but the picture was not entirely dark. With only partial U.S. support (mostly from the air), the 1972 Easter Offensive had been blunted. Once American troops had left Vietnam completely, American arms and supplies bolstered ARVN capabilities. Vast quantities of military hardware arrived at &uth Vietnamese ports. So many trucks and jeeps sat on the wharves at earn Ranh and Vung Tau that one
+nAl~HLE VfA TALENT KE'I HOLE eOMlNTeONTROL SYSTEMS oiaUoft'LY
+1 TOP SECRET UMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+TOP SECRET UMBRA
+congressman wondered whether the objective of Vietnamization was to "put every South Vietnamese soldier behind the wheel." 4 The ARVN became, by the end of 1974, one of the largest and best equipped armies in the world, and its air force was the world's fourth
+largest. Ir- -. 1--.3-S-2-6,-s-e-ct-io-n-1.-4-( c-)(-d-)-'
+EO .(Set The SIGINT situation was very complex. Although confronted with major
+deficiencies in manpower and equipment, General Nhon's DGTS had developed at least Withheld from
+public release
+I
+the rudiments of what NSA had hoped for when the Vietnamization program began. It did
+c=J Pub. L. 86-36
+a goodjob of collectin~
+d) I
+Its performance in traffic analysis was spotty, mainly because the DGTS often did not see the value. It had an outstanding ARDF capability on paper, although that program was hindered to some degree by the reluctance of Vietnamese pilots to fly in areas of hostile fire. The EC-47 fleet that NSA bequeathed to Vietnam was aging and prone to mechanicalfailure, which drove aircraft downtime to unacceptable levels. The DGTS used ARDF results primarily for order-of-battle rather than for tactical targeting. ~
+INSA 1.4 (c)(
+r:
+(u) General Nhon atNSA with John Harney, then commandant ortbe National Cryptologic School
+II-I,NDYiJ '/I:A 'fJtt.aSN'I' KBYlIebB GeMINT OeNTReL S-YS'PSMSdOIfR'LY
+lOP SECRET UMBRA 2
+
+
+ DOCID: 523696 REF ID:A523696
+Withheld from public release Pub. L. 86-36
+TOP SECRET U..,BRA
+JS..Ge6rGeneral Nhon had picked his SIGINTers carefully, and DGTS dedication was very high. It was hindered by a corrupt and inefficient government and by declining American financial support. Moreover, NSA had been very slow to recognize the need to give OGTS first-class SIGINTtraining. The philosophy in the early years had been to "buy off" the government in order to develop political support in Saigon for the build-up of American cryptologic capabilities. NSA never permitted a level of SIGINTexchange with the ARVN SIGINTorganization that the wartime situation demanded, and its lack of technical expertise was consequently low. When the Americans left, DGTS had a long way
+to gO.6
+(U) The improvements in overall ARVN capabilities had .reeutted in at least a marginal improvement in the situation in the countryside. Village security was better in many areas, and the government, still corrupt and oppressive, had nonetheless announced a new land reform program. At year's end, a shaky stalemate existed between the ARVN (Army of the Republic of Vietnam) and the NVA (North Vietnamese Army). Little had changed in the government's ability to control geographical areas since the cease-fire."
+.(SG)-But trouble was afoot. NSA reporting since the cease-fire documented huge NV A shipments to the South. Unhindered by American bombing, they brought in engineers and road-builders, and turned the Ho Chi Minh Trail into the "Ho Chi Minh Road," an allweather highway suitable for heavy transport. By early 1975, NVA forces were better equipped than at any time in the past.' They were obviously waiting for the opportunity to renew conventional warfare.
+(U) THE FALL OF SAIGON
+(U) Hanoi's Final campaign
+(U) The final round of the Vietnam War was apparently planned by Hanoi as early as August of 1974. With American support for the government in South Vietnam beginning to weaken, victory appeared to be just a matter of time. But the timetable was not 1975 it was 1976. No one in Hanoi really envisioned the imminent collapse of the opposition."
+-'SeTThrough the fall, NSA was reporting infiltration figures unheard of except prior to the 1972 Easter Offensive. The NV A launched the fIrSt attack shortly after the the
+I first of year against Phuoc Long Province in MR 3. After the seizure of the province, Hanoi sat back to judge the American reaction. There was none, so the NVA renewed the offensive in MR 1 and 2 in March .
+.!SG)-About the first of March, SlGINTindicators pointed to a strong.NVA attack on Ban Me Thout in the Central Highlands. The NSA office in Saigon, however, believed that the Ireal objective~ was Pleiku, and that Ban Me Thout was a diversion, albeit a significant one.
+the NSA representative, accompanied by General Nhon, the DGTS commander, briefed the ARVN MR 2 commander, who refused to believe them. The
+w ~gU 'IlA 'Fldal5N1' KaYIiO ••! OOMlN'f OON'l'ROL 8¥S'FFlM8 cJOI~Fl'bV
+3 TOP SECRET YMBM
+
+
+ DOClD: 523696 REF lD:A523696
+Jep SCERn I:JM81b\-
+. The Final Days
+(U) Vietnam .
+-fe, SECRET t;lMBRA .
+4
+
+
+ DOClD: 523696 REF lD:A523696
+TOP SECRET UMBRA
+commander reinforced Ban Me Thout, but it wasn't enough, and he still lost it. Meanwhile, just as SIGINT had indicated, NV A forces fell on Pleiku.10
+(U) On March 15, President Thieu made the "tactical" decision to abandon the Central Highlands. ARVN troops at Pleiku abruptly abandoned the city, and it was in NVA hands within two days.
+(U) This began one of the most awesome and tragic civilian evacuations in modern· times. Spurred by the military abandonment and the advancing NVA forces, hundreds of . thousands of refugees jammed the single road from Pleiku to the sea, Route 14. About a third of the way to their objective ofTuy Hoa, Route 14 met with Route 7B at a town called Cheo Reo. There, streams of refugees from other towns intermixed, creating gridlock. In the vicinity of the town, NVA forces attacked retreating ARVN forces, creating a. bloodbath in which thousands of refugees and soldiers were killed. NV A harassment . continued the length of the road, but Cheo Reo wasthe worst.'! .
+(8 GGO) The DGTS center in Pleiku kept operating until the final day, arid then the center's people joined the fleeing refugees. Of the 87 men and 120 dependents who took to . Route 14, no more than half ever reached the coast. The rest remained unaccounted for. 12
+~NSA was picking up indications that the North Vietnamese were moving reserve divisions south. The 968th, which had remained in Laos for its entire existence, showed up in the Kontum-Pleiku area, and there were indicators that divisions in the Hanoi area, which had never done more than train men for combat in other organizations. might be moving out. Still, CIA predicted that the South would hold through the dry season. IS
+(U) But military analysts in the Pacific were not so optimistic. USSAG (United States Support Activities Group), which was really MACV in Thailand under a different name, . pointed ominously to the movement of reserve divisions, and predicted an all-outeffort to take Saigon during the dry season. IPAC (Intelligence Center Pacific) hinted on March 17 that the entire country could fail.l~ .
+(U) There was no let-up. Quang Tri City, defended with such high casualties in 1968, fell to the NVA on March 20. At the same time, NVA units were besieging Hue. On March 22 they severed the coastal road between Hue and Da Nang. The old imperial capital was a captive. 15.
+(U) The Fall of Da Nang
+(U) With Hue cut off and withering, refugees poured into Da Nang,the last important city in MR 1 still held by the government. By March 25 the city was choked with pedestrian and cart, traffic. ARVN units had turned into an armed mob and were commandeering any form oftransportatiotl available to get out of the city. Mobs swarmed
+RAN OLE v IA I ALEN r KE f ROL! eOMINT eON'PftOL SYS'fSMS cfOl~fTb¥
+5 TOP SECRET I;JMBRA
+
+
+ DOCID:523696 REF ID:A523696
+'FOP SE(:RET I:JMBRA
+.across the airport runway, and each successive World Airways 727 landing there found it. more difficult to take Off.18
+..csrOn the 26th, Al Cameron, the NSA advisor ~ the DGTS unit atDa Nang, received , a call from the CIA station chief. It was time to get out. Cameron drove his jeep to the air strip, leaving his personal goods behind, and squeezed aboard a jammed 727. He rode the overloaded plane to Saigon with a Vietnamese child on his lap."
+(U) The next day the Shell Oil personnel departed, closing the airfield refueling operation. Mobson the runway made it.impossible to land, and that morning an American embassy cargo flight was completely stripped by the mob after it landed. At that point World Airways ceased service to Da Nang."
+(U) The next day the last Americans got out of Da Nang via ships in the harbor. On March 29 the owner of World Airways took three 7Z7s from Saigon to Da Nang without authorization from either the Americans or Vietnamese. According to the CIA description:
+At Da Nang one 727 landed and was immediately mobbed, surrounded by trucks and was forceably boarded by GVN military on the airstrip. 1'he plane made emergency takeoff preeedures and was rammed by a truck at the lef\ wing or bit a truck on takeoff. The plane was unable to take offfrom the normal runway as the VN military had it completely blocked with trucks or other vehicles. Accordingly. the plane took oft on a taxiway. The pilot stated that once airborne he was unable to retract the wheels and assumed he had major hydraulic casualty. However; one of the otl:ler planes that took off (from Saigon) af\er him came alongside and reported that he had a body in the lef\ wheel well that was jamming the wheel doors.1i
+The World Airways flight (the only one of the three that was actually able to land) arrived in Saigon with 385 passengers (about the right complement for a 747), of-whom four were women, three were children, and the rest were ARVN soldiers.
+~eOl The Da Nang DOTS station, at 429 people, was one of the largest in the country. The DGTSmanaged to evacuate two planeloads of equipment and dependents before the city fell. The operators continued operating until the site was overrun. The day . before the end, the De.Nang communications operator told Saigon:
+Only workers are !ef\ at the signal center and we wiil not be able to get out. We are just waiting to die. We will wait for the VC to come in. hold our handa over our heada for them to cut. We will be here until the last, but the go~ernment doesn't think about the workerS. Please say something too ease our fUlaIboura.20
+Photos of Da Nang on March 30 (the day the NVAentered the city) showed only a smoking shell of a building where the De. Nang center had been. All the operators were reportedly either killed or captured. 21
+BANgYI 'III.TAYINT KBYUebS GeMINi' eeNi'OOL SYS'ftlMS oi9lNTL¥
+TOP ,!at!, tlMBItA 6
+
+
+ OOClO: 523696 REF lD:A523696 ,
+TOP SECRET tJMBftA
+(U) Fleeing Da Nang
+CU) The Fall of Phnom Penh
+(U) NVA forces raced pell mell down the coast, gobbling up city after city. The advance was dizzying to hunters and hunted alike. Within a week of the fall of Da Nang, all of MR 2 was in NVA hands except for Nha Trang, which was abandoned to the enemy on April 7, but not actually entered until the 9th.22
+(U) Then a brief quiet descended on the land. NVA forces had outrun their supplies and their military plans. Hanoi began collecting assault forces for the final push to Saigon,. and the Saigon government began steeling itself for what had clearly become inevitable.
+(U) At that point, American attention refocused on Cambodia. As the NVA advanced down the Vietnamese coast. the Khmer Rouge organization in Cambodia had quietly but effectively squeezed the Lon Nol government into a trap. All that the government held by. January of 1975 was a narrow water alley through the center of the country. The
+HANDLE VIA TALENt KEYHOLE 60MIN'P eON'l'ROb SY~TBMS dOIN'fL¥
+7 TOP SECRET lIMBRA
+
+
+ DOClD: 523696 REF lD:A523696
+TOP SECRET UMBRA
+(U) Cambodia - tile Khmer Rouge tighten their grip on Phnom Penh'
+communist forces held all the countryside, and began pinching off the Mekong waterway through which the capital obtained almost all its supplies. Each year the KC (Khmer Rouge) had done the same thing, but like a bulldog tightening its grip, each year they choked the river closer to the city. '
+JSe1 The American mission there was very small, only 140 people. It was well organized under an experienced ambassador, John Gunther Dean. Moreover, it had outstanding intelligence support, almost all of it SIGlNT. Moreover, the small
+'------ ---1 I E.O. 13526, section 1.4(c)
+Withheld from
+H.~N9bE 'JIATAhS~TT KEYHObS 60MINT CONtROl:. S-Y&FISMSoJO!N'FL-Y public release
+Pub. L. 86-36
+TOP SECRET UMBRA '8
+
+
+ }
+DOClO: 523696 REF lO:A523696
+TOP SECRET UMBRA
+I E.O.13526, sectionl.4(c)
+ASA ARDF effort out of Thailand showed the tightening of the vise as the various KC headquarters moved closer to the city. But without American commanders to act on the information, there was little the U.S. could do.
+'- ---1. But, as it was New Year's Eve, they were all at parties, and. the army made no preparations whatever. Gas tanks weren't filled, guns weren't even loaded.23
+--'set On April ll,the AFSS unit at NKP (Nakhon Phanom air base in Thailand) intercepted KC .plans for an all-out assault on the city. Admiral Gayler, by then CINCPAC, called Ambassador Dean to say it was time to leave. Dean agreed with him, and Gayler implemented Eagle' Pull, .the dramatic rescue of embassy personnel by helicopter from a sport field in downtown Phnom Penh. By the end of the day on April 12 the entire operation was over, and Phnom Penh waited for the KC to march in. Most of the .cabinet refused evacuation and waited for the doom that would befall them. They were all .executed. 24
+(U) The Fall of Saigon
+~ As the NVA repositioned and refurbished for the final assault, an air of unreality settled on the American embassy. Ambassador Graham Martin believed that the government could somehow hold out until the rains began in June. SIGINT, both from the DGTS station in Saigon and from the U.S. SIGINT system, showed the NVA massing around the city. Thi~u, who knew the end was near, resigned. In Washirigton, the White House understood what was happening. But Martin refused to heed the signs. He and his CIA chief of station, Thomas Polgar, believed that the SIGINT was NVA deception. A bill was pending in Congress to send an additional $700 million in military aid to the government in Saigon, and they held out the hope that this would pass and that it would come in time. The regime in Himoi, Martin thought, was really getting in position to impose a coalition government, not a military victory.2:5
+~NSA station chiefl Imain concern was his people. When the country began falling apart, he had forty-three employees and twenty-two dependents. The dependents he began evacuating on civilian commercial flights, along with the thousands of Vietnamese fleeing the country. Ambassador Martin put the evacuation of the government employees on hold. He feared that the SIGINT system would not support him if they left, and that the DGTSwould not work without NSA assistance." .
+rei The signs of collapse became more ominous, andc:=Jmade almost daily trips to the ambassador's office, pleading for permission to get people out of the country .. The' exchanges became angry; andc=Jwent to the director of NSA, Lieutenant 'General Allen, for help. In mid-April, Allen sent a distressed cable to the DCI:
+With!Ield from public release Pub. L. 86-36
+Withheld from public release Pub. L. 86-36
+lb\iofBL~VIA"AL~N'''Kfil ••i•.lau GaMIN,.eaN'fRab S'IS'fflMSJ9lN1'f?f
+9 TOP SECRETUMBR-A
+
+
+ DOClD: 523696 REF lD:A523696
+Withheld from
+TOP SECRET UMBIbtc public release
+Pub. L. 86-36
+1am fully aware of the complex political isaues involved in any withdrawal of U.S. Government personnel from the RVN. 1 wish to reiterate, however, that the safety of the cryptologic personnel in the RVN is my paramoWlt concern. 27. .
+Not even this was sufficient to
+IChanj minds in the embassy. 'smuggled" people out of the country by bu y ing- them commercial tickets, and his staff gradually shrank to just a few. Those who remained spent almost Withheld from
+all their time at work, often public release
+Pub. L. 86-36
+sleeping in the office rather than .returning to the hotel where they were billeted.28
+. ..{e1. The final assault began on April 26 with the attack and capture of Bien Hoa. On the 28th, Dmade a final <visitto Martin, with a message from Allen directing him to secure his communications and depart. Still,. Martin refused. The next morning, the NVA began rocketing Tan Son Nhut; and the airfield was closed to even military aircraft. The embassy and its people were now
+caught in a trap, and the only ..,;..;.;.;..;...•;.;•;'.•;c.;h....lasc NSA.representative In Saigon
+escape possible was by helicopter.29
+..(S.CeetThe evacuation plan was called Talon Vise (later changed to Frequent Wind). It envisioned the evacuation of all Americans and almost 200,000 of their Vietnamese allies. Evacuees would be airlifted by fixed-wing transport from Tan Son Nhut or picked up at the port ofVung Tau on the coast. Helicopters would be employed to ferry pockets of people from exposed locations to Tan Son Nhut. Politically sensitive Vietnamese, such as those who had participated in the Phoenix program, or SIGINT transcribers (the Dancers), and their families would be afforded special evacuation priority.30
+(U) But with the ambassador bewitched by clouds ofintelligence opiates, there was no time left; to implement such an orderly departure. All that was left was to use the helicopter option to try to g~t the Americans out. Martin, debilitated further by walking pneumonia, stood alone. With shells landing on Tan SOnNhut, the president gave the order, and Admiral Noel Gayler directed the evacuation. Martin was obdurate to the end.
+IIAliBLE Tt'b\ 'fA;LEN'f KE'l"116t:E €6MfU'f e8~ffR6L B\'S'fI3MB d81't''fLY
+lOP SECRET YM BRA 10
+
+
+ DOClD: 523696 REF lD:A523696
+"fOP SECRE"f"'MBRA
+(U) Graham Martin
+(U) Gayler had been assembling a vast armada in the South China Sea. It contained seventy-seven vessels, including five aircraft carriers. On the morning' of th~ 29th, the principal carrier to be involved in the operation, the Hancock, downloaded fighters and uploaded choppers. Sl
+..(SCCO~-AtNSA, Director Lew Allen had been putting together a SIGINT support effort since mid-April. Most important was the monitoring of North Vietnamese communications to provide warning to the evacuation aircraft, since the NVA had brought SAMs into the vicinity of Saigon. A special AFSS SIGINT support team was flown to Clark Air Base to brief MAC (Military Airlift Command) crews on warning measures, should . they be targeted by NVA antiaircraft units. As it turned out, MAC aircraft were not used in Talon Vise, although they did continue to fly into Tan Son Nhut until the morning of the 29th.S2
+. !S CCE»The Olympic Torch U-2 collection (downlinked to NKP) served as the primary monitoring system for NVAcommunications, and also monitored U.S. communications to keep tabs on the progress ofthe evacuation, This information was passed to Gayler and on to the White House. In addition, RC-135 missions were tasked with both NVA and U.S. communications. se
+fLUHlbB VIA 'FA-bBN'f J(SYII9bB G9M1NT GONTR9L S¥SHMB dOIHTLo¥
+11 "fOP SECRETI:JMB~
+
+
+ DOClD: 523696 REF lD:A523696
+lQP SECRETUMBRA
+(U) When, on April 29, President Ford directed the implementation of the evacuation
+plan, military planes had already evacuated almost 40,000 Americans and South
+.' .
+Vietnamese over the preceding eight days. But since the plan called for over 200,000 to be evacuated, this was just a start."
+(U) The helicopters began flying from the deck of the Hancock on the afternoon of April 29. All through the night, the heavy thump of chopper blades was heard above the embassy. The operators at NKP monitored the voice frequencies used by the chopper. pilots, and sent their reports to Gayler in Hawaii.
+(U) Americans and Vietnamese rusb for a waiting belicopter at tbe DAO comPound, Withheld from
+29 April public release Pub. L. 86-36
+..reTThe remaining NSA contingent found itself marooned at their offices in the DAO.
+compound at Tan Son Nhut. D found that no provision had been made to get him and
+his people out. He contacted General Smith, the military attache, ,whoarranged for cars to takeDand his people to the embassy. There they boarded helicopters late on the 29th for the ride to the waiting ships."
+HAHBbE '}Ill: 'f"'bEN'F I{SYllObE COMIN'FCON'FROb S¥S'F5MS 49fN'FbY
+MP SECRET !:IMBM 12
+
+
+ ·'6' 5EeRET~MBRA
+\\0001
+N M (U) Midnl,b& 2. April - tbermia.ebar,., b~ down Use root oltb. DAO compound
+II')
+II dlSb& 1 'f btill'l'liS 119b1ii S9'HHT88!I'PRBb6 &i'SMfjoleUPI'b
+U o8H 13 TOP 5[(AEHmSRA
+
+
+ DOClD: 523696 REF lD:A52369~
+TOP SECRET tJM8RA
+1£'1 At about midnight, Pineapple 6-1, a chopper pilot in the embassy compound, reported that he was in contact with the ambassador, who still refused to leave until the last Americans were out. Four hours later, intercept operators heard chopper pilot Lady Ace 9 tell Martin that the president had directed Martin to leave forthwith. The chopper hovered above the embassy rooftop as smoke from fires in the building made his landing temporarily impossible. Six minutes later an RC-135 operator heard the pilot broadcast; "Lady Ace 9 this is Tiger Tiger Tiger." THis was the codeword indicating that the ambassador was on board.
+<
+(U) Vietnamese wait outside the gates or the American embassy &sa helicopter approaches the compound. I
+JMNBbE VIii TAYlN1' KE¥UabE GaMiNT GamRa!> S¥STEM8cJaINTla¥
+f.E)p SECRET I;JMBftA 14
+
+
+ DOCID:.523696 REF ID:A523696
+TOP SECRET UMBRA
+(U) The choppers continued to pluck people off the roof of the burning embassy for another three hours. The last to leave was not the ambassador - it was the ground security force.35
+.£SCOat It had been the largest helicopter evacuation in history. Seventy Marine helicopters had airlifted more than 7,000 Americans and Vietnamese from the embassy and the DAO compound. Among those who did not get out, however, were the DGTS operators. Saigon Center operated to the end. and CIA evacuated only about a dozen highranking officers, including General Nhon. The Dancers. DGTS linguists on duty in Thailand, were evacuated from Thailand to the United States. Their families in Saigon had already left South Vietnam and were waiting for them on Guam.37
+(U) THE SUMMING UP
+~Not having time for an orderly departure, the Americans left behind vast stockpiles of military equipment. Along with the runways full of planes and parking lots full of trucks, there were large amounts of crypto gear. . Deputy Director Berison BufTham estimated that it was the largest loss of COMSECequipment ever. In practical terms, however, it was not as great a blow as the capture of the Pueblo. The crypto principles of most of the equipment had been compromised earlier, and very little actual. key was known to be in Vietnamese hands. Spare parts would be almost unobtainable. and . BufThamexpected that the U.S. would intercept very few NVA transmissione."
+~ eCet The DGTS organization was captured virtually intact. At the time it consisted of more than 100 manual Morse positions,2,700 people, and seventeen ARDF j aircraft. Many of the South Vietnamese SIGINTersundoubtedly perished; others wound up in reeducation camps. In later years a few began trickling into the United States under the orderly departure program. Their story is yet untold. •
+JS.Ge6j Their leader, General Nhon, made his way to Washington, D.C., and was hired as a linguist by NSA. Helived a quiet life in suburban Washington until his retirement in 1994. He now lives with his family in rural Virginia.
+(U) TH~ MAYAGUEZ
+(U) As if Southeast Asia had not caused America enough heartache, one last chapter remained to.be written. The seizure of the Mayaguez had a murky beginning and to the end remained unsatisfying. It also had a cryptologic component which remains confused to this day .
+...cser The Khmer Rouge regime which rolled into Phnom Penh in mid-March 1975 quickly turned vicious. By early May, the White House was receiving SIGINTreports of widespread executions, offorced exodus to grim countryside reeducation camps, offamilies separated and of retribution on an unbelievable scale. Secretary of State Henry Kissinger,
+H/.NebE '1M, t'Al.ENT KEYH9b! C9M1Nl' CONTROL S¥S'fEMS,JOINThY .
+15 TOP SECRET I:JMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+TOP SECRET UM8AA
+commenting on one such I IKC message, wrote to President Ford, "The INSA 1.4 (c) I
+magnitude of the KC liquidation effort has heretofore been unclear. It would appear that ' -----if similar efforts are being carried out in other parts of the country, this would involve a
+slaughter of immense proportions." 3'
+.(Be) The Cambodian government of Pol Pot took a very aggressive approach to foreign relations, too, Among the territories which KC forces invaded were several small offshore islands which Vietnam and Cambodia both claimed. Among those islands was one named
+{.
+Poulo Wai. SIGINT intercepts of KC communications revealed a determination to hold Poulo Wai and to spread out farther i~to the offshore waters.
+(U) u.s. destroyer off Kob.Tang Island
+JSe)Beginning on May 5, NSA began publishing reports of the KC seizure of Thai flShing vessels and attacks on Panamanian and Korean merchantmen' plying the waters in the Gulf of Thailand. But the intelligence community focused not on th,ese commercial depredations, but on communist attempts to intercept Vietnamese refugees escaping after the fall of Saigon. Moreover, the U,S. government organization charged with issuing notes to commercial shipping had no links to the intelligence community. No notes were issued.co .
+(U) Into this nest of small-time raiders steamed an American flag container ship, the Mayaguez, plying a regular route between Hong Kong, Thailand, and Singapore. The first maydays from the vessel, on May 12, indicated that they were being boarded by Cambodians, and later that they were being towed to an unknown Cambodian port. An
+TOP SECRET UMBAA 16
+
+
+ DOCID: 523696 REF ID:A523696
+Tep SECRET lJMBfbIc
+,
+exploration company based in Jakarta received the broadcasts and notified the American embassy. 'the embassy issued the initial critic at 0503 EDT on May 12. .
+(U) The president was briefed on the seizure that morning. .It was not a military challenge and was scarcely an impediment to commerce. But the Mayaguez seizure clearly represented a political challenge. The evacuation of Saigon had been a profound American defeat in Southeast Asia. Here was a chance to prevent the tiny Cambodian navy from tweaking America's nose. Coming only two weeks after the fall of Saigon, it was an event which found American military forces still in place in Southeast Asia. The president directed that a .response force be assembled and the crew recovered.' The discussions with the president harked back to the disastrouspzieblo seizure. Ford was determined to prevent that scenario at any cost. U
+(U) Initial Navy aerial reconnaissance ordered by the Pentagon established that the Mayaguez itself was anchored a mile off Koh Tang Island, thirty miles off the coast of Cambodia. The central concern of the Ford admi;"istration became the location of the crew. Ifit remained on Koh Tang (where it was, presumably), one sort of rescue operation . would be mounted. If the crew was transferred to the mainland, a very different operation would be called for.·2
+JS=,Ce6) Here was where good intelligence was required. NSA still had in place virtually all its intelligence assets from the war in Vietnam, and the Agency directed a total focus on Cambodian communications, which were all readable. NSA declared a SIGlNT alert. Meanwhile, aerial reconnaissance continued to blanket the area. In the early morning of May 14 (Cambodian time), an American patrol craft spotted a thirty-foot boat, accompanied by escort vessels, making a .run for the mainland, with eight or nine Caucasians on the deck. Since the least desirable option was for a mainland rescue, a tactical air strike was called in, and the escortvessels were sunk. But the main vessel \ continued on, and the attacking A-7s held their fire. ~
+~An early intercepted message indicated that the crew was to be taken to Koh Tang. This caused the administration to focus on the island. But that was it. There were, no subsequent messages about the location of the crew,their destination or the intentions of the Cambodian government, until the very end."
+(S-€eO) The fragmentary SIGINT, and the lack of anything more definiti ve, caused the administration to focus on Koh Tang. A complex rescue operation was hastily arranged, and on the morning of May 14, only three days after the initial seizure, 200 Marines assaulted the island. They were met by heavy resistance. The 150 Cambodians on the island were armed with 75-mm recoilless rifles, claymore mines, and rockets, in addition to small arms. Marine helicopters were cut down on the beach, and eighteen Americans ~ere killed. The Marines were pinned down on the island, and they themselves had to be rescued the next morning."
+(Se)" Meanwhile, Navy F-4s struck Ream Airfield inside Cambodia, based on SIGlNT intercepted by the USAFSSunit at Ramasun Station that the KC planned to move
+W"'Nl)bE Vb\ TAbEN'F KBYU9f:J5 69MI:PR' 60NTReLS¥S'tEMS"OIN'fbY
+17 TOP SECRET lJMBRA
+
+
+ DOClD: 523696 REF lD:A523696
+TaP SEERef tJMBRA
+Cambodian combat aircraft there. They destroyed seventeen aircraft on the ground and put the airfield out of commission.48 .
+.(SeT On May 14,as the Marine assault was going on, there was a flurry of messages from various KC entities referencing response to the American attacks. Early on the 15th (in Cambodia) a message (probably from Phnom Penh) ordered a KC operational authority to let the Americans "take the ship and leave" and to "let the Americans go." Soon thereafter a KC gunboat appeared near the north end of Koh Tang showing a white flag. Four minutes later the destroyer USS Wilson scooped up the entire crew, and l'affaire Mayaguez was over, except for the extraction of the Marines on the' beach, 'which was difficult and dangerous to the end."
+.(U) The Ford administration claimed credit for a win. The crew was back safe and sound, although at the cost of eighteen Marines dead. President Ford went on television to explain the American response, and a Gallup poll taken shortly after showed the approval rating for the operation at 51 percent; To an administration which had been badly battered by its handling of the pardon of President Nixon, this was goodnews.
+~ A month later the Vietnamese completed what the Americans had started. Intercepts revealed that the Vietnamese had wiped out the Cambodian garrison onPoulo
+Wai.48 . .
+..is-ceG}- Although the crew was recovered and the vessel released, the Mayaguez incident has been counted as an intelligence failure. DIA and IPAC intelligence estimates of KC strength on Koh Tang were accurate but did not reach the deployed forces. Although this deficiency was cited in report after report, no one seemed to know why the information did not reach the users." But since the only reliable information on Cambodia at the time was SIGINT, classification diffifulties are readily suspect.
+(S-eeO) There were other problems relating to the affair. The response of intelligence agencies in Washington was slow, and the NOIWONsystem was not used. While SIGINT classification undoubtedly hampered the dissemination of critical intelligence, in the opposite direction tactical commanders refused to share details of the' military operation with NSA - details which would have improved intelligence responsiveness. ~
+~ Why didn't SIGINT reveal the location of the crew? Reviewing the action some weeks later, an NSA analyst came up with the answer. Simply put, the operation was carried out by a local commander, without checking with higher authority. Khmer Rouge local commanders had long exercised such authority, and it is reasonable to suppose that it did not halt simply because peace had broken out in Southeast Asia. The first high-level SIGINT came from Phnom Penh on the 15th and was passed to Ta Mok, the regional . commander, directing that the crew be released. There was no prior direction from higher headquarters because headquarters had not .directed the action in the first place, and it got . involved only when the military consequences had become serious. In a radio broadcast the following September, Ieng Sary, the Cambodian deputy premier, admitted as much." So in the end SIGINT, the only goodsource on Cambodia, came up short.
+HANDLr; ~ fA !"ALENT K'E Y'HOLEeOMIN'I' eomito£; S"I.'STBMS .t6m'lL Y
+'fOp SEeR!' UMIItA .18
+
+
+ -----------
+DOClO: 523696 REF lO:A523696
+Tep SECRET I::JMBRA
+Withheld from public release
+Pub. L. 86-36 Notes
+1. (U) Illterview withl ~ 2 December 1992, by Charies Baker and Tom Jobnaoll, OH':'"6--=-S2=-,-=-N:::SA:-:-.
+2. (U) CCH Series VI.HH.26.1
+3. (U)lbid.
+4. (U) George Herring, AIMI'icG', Longest WGr: The UnieedSfcfu Gild Vief/IGm,1950.1915 (Philadelphia! Temple University Press, 1986), 231.
+5. (U) Pbam Van NOOn, Remini8cellceS about oGTS, CCH Serie. XI.s. Robert,J. Hanyok, "The Relevant Truths: ' SIGlNT wues o(the Indochina War,19S0.7S;" Part 2, CryptologicQuarWrl)' (FaUI997) 16:3, 1·50.
+6. (U) Interviewl 123 January 1986. by Robert D. Farley and Tom Johnson, OH 4-86, NSA;
+" I I-.NSA in Vietll&m: Proud and Bitter Memories," Cryptolo, (October 1976),3·6. Hanyok, "The Relevant Truths.·
+7. (U) Herrini, AmericG', Longe.t War.
+8. (0) CCH, National Defen •• University collection on Vietnam, bos 301.
+9. (U) CCH Seriee vm. 30.
+10. (Uc::::Jinterview.
+11. (U) Stanley Karnow. ViefllGm: A Hietory (New York: Penguin Boob, 1983).
+12. (U)CCH Series VI.HH.9.1; Hanyok, "Relevant Truths, ••41.
+13. (U) CCH Series Vl.HH.26.2.
+14. (U) Ibid.
+15. (0) CCH Serin VIIl.30.
+16. (U) Ibid.
+17. (U)C]. et aI .• illterview.
+18. (U) CCH NDU collection, 80s 320.
+19. <U) CCH NDU Collection. 80s 323.
+20. (U) CCH Series VI.HH.I1.l9.
+21. (U) Ibid. c=J, eta!., interview; Hanyok. "Relevant Trutha," 41.
+22. (U) CCH Series VIIl.30.
+23. (u) C]'et al., interview; CCH Series VI.HH.26.10; NSA Archives, Accesaiol1 Number 23500. Lee, CBOG36.
+24. <U) CCH Series VI.HH.27 .10; 26.4.
+25. (U)D interview; Karnow.
+26. <U>C)nterview; CCH Series VI.HH.9.1.
+2'1. (U) CCH Seriea VI.HH.9.l. Withheld from
+public release Pub,. L. 86-:~6
+19 TOP SECRET I:JMBRA
+
+
+ DOCID:523696 REF ID:A523696
+"fOP SECRET UMBRA
+Withheld from
+public release 29. (U) CCH Series VI.HH.9.1; Kamow.
+Pub. L. 86-36 30. (U) CCH Series VIIl.30.
+31. (U)CCH Series VJ.HH.26.l1.
+32. (U) CCH Series VIU.30.
+33. (V)CCH series VIIl.30; VI.HH.26.11; 26.9.
+34. (V) CCH Series Vm.30.
+35. (U)c=:Jinterview.
+36. (mCCH Series VIII.30.
+37.(U~interview; B-WAR,6·12 May 1975. Karnow.
+38. (U) CCH Series Vm.30.
+39. (U) National Security Files, ~rald R. Ford Presidential Library, Ann Arbor, Michigan; ftSoutheast AeialVietnamlCambodia," CCH Series XVI.
+40. (Ul CCH Series Vm.25.
+41. (U) CCH Series Vm.25; John F. Guilmartin,Jr.,A Very ShorrWar: The Mayaguuand tlwBattuofKoil Tarl/l(College Station, Texas: Texas A and M Press, 1995),36-37.
+42. (m CCH Series 25, ·USAFss Support to the Recovery ofthe 55 M'ayaguez."
+43. (U) CCH Series Vm.25; Guilmartin. AVery Short War.
+44. (U) Ibid.
+45. (U)Guilmartin,A Very Short War.
+46. (u) CCH Series VIll.2S.
+47. «n Ibid.
+48. (U) Ibid.
+49. (U)Guiimartin, A Very Short War; CeH Series VUl .25, GAD report en~tJed ~e Se~ure of the Mayague" A Case Study in Crisis Management,"
+60. (U) CCH Series vm.ss, CIA postmortem.
+51. (U) CCH Series VlII.25; Guilmartin,A Very Short War.
+HAI'IBI:.E Yh\ TALENT KEYU914J 09MIN'l' 09liTROlz S'l-JS'l'SMS cJOIN'iVl
+TOP SECRET UMBRA 20
+
+
+ DOCID: 523696 REF ID:A523696
+Tgp SECRET YMBRA
+(U) Chapter 15
+Downsizing
+...(8) Cryptology had waxed fat during the war years. It did not seem so to those who
+struggled for dollars and manpower to help fight the. war in Vietnam, nor to those in other parts of the cryptologic system who desperately tried to maintain their hold on resources that seemed inexorably to slip into the pit of Vietnam. But in fact, the peak of the cryptologic system was reached in the late war years. After that, there came the reckoning.
+,-... (8) The peak years in overall field deployment came from 1967 to 1970. After that, it
+~~ looked like the cryptologic system was going off a ski jump (see Table 1). The downslide ~ lasted for a decade - field site deployment did not finally level out until 1981 - and the loss
+.s-: of field sites was matched by an overall decline in manpower. The cryptologic system.
+~ began the 19705 at approximately 89,000 people; it ended at about 50,000, a drop of 44
+v~i percent. The funding profile, unlike that of personnel and field sites, remained fairly
+~ steady over the period and was actually higher in 197~ . I than it
+~ had been in 19691 I. But the decade was one of runaway inflation, so a steady
+o
+stream of dollars did not equate to the same level of resources as before.' Withheld from
+~ public release Pub.L. 86-36
+(U) THE GREAT RIF SCARE
+.(et At NSA, the work force shrank from 19,290 in fiscal year 1970 to 16,542 in fiscal year 1979,a reduction of 14 percent." Looking back, this doesn't seem so drastic, but in 1971 no one knew how far the cutbacks would go, just that Congress had decreed a huge cutback in the federal work force, called the General Austertty in Government Expenditures Act; and that the Department of Defense would absorb the brunt. To maintain some sort offairness, cuts would be across the board, and NSA would give up its "fair share" of manpower, regardless of'missiorror need.
+~ Soon after Congress levied the cuts, in September of 1971 Admiral Gayler, the . DIRNSA, issued a memorandum to the work force confronting the rumors swirling through the halls. Yes, a RIF (reduction in force) might be necessary, and it was certain that promotions would get scarce. But a RIF would be an absolute last-gasp measure. He hoped that retirements and attrition would turn the trick. This was suspect, however, because NSA's attrition was notoriously low - about one-third of the federal average. With a closed-loop personnel system and unique, nontransferrable skills, NSA employees could not go out and look for other federal jobs. (By the same token, employees of other agencies could not come looking for jobs at NSA.) What finally forestalled the RIF, however, was a device, called "discontinued service retirements." NSA began offering these immediately, and they were hugely successful. In 1972 the retirement rat~ doubled that of the previous
+flANBLf ViA 'fALf.N'f KEYH6tE C6MIN'f C6N'f~OI:iS'ISftlMScJOINTb¥
+21 Tgp SECRET YMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+Total !lumber
+'01 Situ
+IOO~r~------------------------------------------------------'
+10"
+'JO --'_
+10 -'_
+70---'
+u
+,." ._..,. " " " •••••
+11 •• 8. •• ..
+..
+fO---'
+•• .... ..
+... 11
+30 .: .•••••.
+2O..:rn4'~II'
+10 ~ .
+e· ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.
+
+
+ DOClD: 523696 REF lD:A523696
+'FOP SECRET I:IMBRA
+year. In June of 1973, moreove~, the Civil Service Commission authorized DoD to offer immediate annuities to individuals with twenty-five years of experience, regardless of age, or who were at least fifty years old with twenty years of service. In addition, a 6.1 percent cost-of-living increase was offered to those retiring before July 1. This did it - retirements in 1973 increased by 45 percent over the already-high level of the previous year. In the end, the RIF was never necessary."
+eel NSA's manpower bottomed out in 1975, as Table 2 shows, and remained s~ady through the remainder of the decade, except for the military component, which continued to shrink slightly. It began its upward swoop in 1981 and topped out in 1989, the nominal end of the Cold War.
+(.G) Table 2 ' NSA's Manpower History, 1973·1993
+_ •• Civilian ~ .• Military
+Thousands
+301~------------------------------------------------~
+(U) However, promotions were difficult to get throughout the decade. The problem was, the grade structure. NSA's average grade had marched upward from 8.96 in 1965 to 10.2 in 1972 (see Table 3). NSA was advancing faster than the federal average. In 1965 its average tied it for ninth place, while in 1972 it was in fourth. The grade problem led to a promotion freeze. Though it lasted only a few months, it damaged work force morale almost as much as the talk ofRIFs.
+JR/f While NSA experienced a modest downsizing, the Service Cryptologic Agencies (SCA) were devastated. Of the 39,000 cryptologic billets lost, almost 36,000 were military. Somec=J military billets associated with direct support and training were transferred into non-CCP (Consolidated Cryptologic Program) areas, so the net loss to the cryptologic system was "only"c=J The Army was hardest hit, losingc=J billets from its CCP
+structure. Security Service lost 0 percent of its billets, while NSG lost more than 0
+percent.' Withheld from public release Pub. L. 86-36
+HANDLE VIA 'fALElt'!' KEYHOLE eOMfNT eONTftOL B-YSTSMStlOnt'PL¥
+23 TOP SECRET tJMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+TOP SECRET UMBRA
+(U) Table 36 NSA's Average Grade. 1965-1972
+NSA's All-Federal
+Year Average Average
+1965 8.96 8.3
+1966 8.67 8.3
+1967 9.0 8.4
+1968 9.2 8.5
+1969 9.7 8.8
+1970 9;9 8.9
+1971 10.07 8.9
+1972 . 10.2 8.9 i
+(U) THE CLEMENTS CUTS
+~ NSA was in the middle of a desperate downsizing effort when, in 1973, it was hit with a round of-budget cuts which became known as the "Clements cuts." The real author of the directive was one James Vance, who worked for Dr. Albert Hall, assistant secretary of defense for intelligence and DIRNSA's immediate boss. Vance contended that cryptology was overfed and underworked, and he embarked on a detailed study of the cryptologic system. The upshot was a recommendation to Hall that cryptology be hit with an additional three percent cut. The Vance recommendation wound up in the office of Assistant Secretary of Defense William P. Clements. Clements imposed a total CCPbillet reduction of 12.999 to be completed by fiscal year 1978.7 (Since the cryptologic budget already showed a large reduction during that period. the real additional manpower cut was "only" 5,110jobsJ
+.(e)Clements specified that reductions were to come from
+1. Management efficiencies. The crux of the problem, as viewed from the DoD level. was a bloated management system with overlapping authorities - basically. "too many bureaucrats." The answer would be to squeeze out the fat. without cutting into bone. .
+2. Technological efficiencies. As will be seen later; NsA was looking at araft of modernization proposals. chief of which was remoting (see p. 38). that would reduce manpower without substantial mission reductions.
+HANDLE Vh\ TAU5N'F KE¥lleLE GeMIN'F GON'f'ReL S¥STEMS dOlN'Fb¥
+lOP SECAElYMBAA 24
+
+
+ DOClD: 523696 REF lD:A523696
+lOP SECREllJMBRA
+3. Mission reductions. This was a last option. At Clements's level, people felt that NSA could cut without reducing the mission .
+.ret Lieutenant General Sam Phillips, who would soon be leaving NSA, answered that NSA recognized the "bureaucracy problem" and had just completed an internal reorganization that cut 649 spaces. Phillips felt that further efficiencies could be accomplished, especially through technology, but he cautioned Clements not to be too hopeful that NSA could do it without any mission cuts. He convened a panel to work through the reductions and come up with a plan,"
+(U) The study group had tough sledding. The first reaction was a decree from the production side of NSA that it would not take a reduction until all support billets worldwide had been cut, whereupon the support organizations replied that they could not cut support until they saw the operational reductions. The SCA representatives were similarly obdurate." It was enough to make a budgeteer tear his hair out.
+(8 CeO) They slugged away during the summer and fall of 1973. When. in October, the results were due to Clements, Lieutenant General Lew Allen had become director. By this time the committee had forged some numbers which sounded a little like a congressional budget-cutting exercise, but which were plausible on paper. Allen told Clements that
+1. Managerial efficiencies could absorb some of the needed reductions. The committee recommended cutting alt-deputy jobs below division level, consolidating some organizations that were split (such as A7 and A8), restricting hiring to one third of projections. virtually eliminating the analytic effort on Southeast Asia,reducing staff functions, and slimming down NSA overseas liaison offices. Overseas, support and managerial billets could be deleted by forcing closer integration of collocated SIGINT sites under the Single Service Executive Agent concept. A new concept in position tasking called COPES (Collection Operations Position Evaluation Standard) could theoretically
+reduce manual Morse positions by 25 percent. Since there were more than 0 Morse positions worldwide, this would have amounted to a significant savings. The SIGINT system would have to rely more on Second and Third Parties. Worldwide logistics would " be shaped into a more efficient mechanism, and some logistics operations would be
+contracted out. Some sites. I I, could be staffed by contractors. Army Security Agency and USAFSS had both built up theater-level administrative headquarters that could be eliminated without effect on the mission.
+2. Technological innovations represented a higher risk option. The remoting
+program, I ' I,was still unproven, but Allen banked heavily on its success to save
+cryptology from the worst of the Clements cuts. Only the first site,1 I, was far enough along to count on. Other new programs with interesting and obfuscatory names
+like I I offered potential savings, b~t their contributions remained to be seen.
+J lMiBLE VIA ''''LEf,y KE'tll6LE et)MU,y e6N'ft6L SYS'f'EMS JOJU'PLY
+25 TOP SECRET I;JMBRA
+
+
+ DOClD: 523696 REF lD:A523696 Withheld from
+1'6P SECRET !;IMaRA public release
+I E.O. 13526, section 1.4(c) I Pub. L. 86-36
+3. Despite opposition from Vance, Hall, and Clements, Allen relied on mission reductions to make the mythical Clements's manpower ceilings. Some stations, like the Navy site at Todendon, West Germany, would ~ closed outright. The ASA trio of Herzo • . Rothwesten and Bad Aibling would be closed and the mission transferred to a new
+I I The Air Force site at Darmstadt would be cut, the operators moved to] land Single Service Executive Agent management would be applied to the new triservice station. The border sites in Ge"hnany would be closed. Back at Fort Meade, NSA would stop doing Cuban internal, all sub-Saharan internal and Middle East internal communications, 10
+(U) Some economies were logical yet unattainable. The creation of Central Security . Service (CSS) the year before had created duplicate staffs at the NSA level. General Phillips had quietly scotched the operational effect of CSS, and the vestigial staffs had quietly taken on dual functions for the sake of economy, but the whole CSS exercise had made it more difficult to slim down because of the perceived need to keep up the appearance of a functioning CSS. The most far-reaching CSS proposal had been to bring the SeA headquarters to Fort Meade and collocate them with NSA, where, it was assumed, economies in the billet structure would be easier to effect. It had not happened and was not likely to happen in the future. The SCAs had successfully fended off collocation with "Mother NSA." 11
+(s 'CeO) Lew Allen had replied with some well-thought-out planning options. Some,
+such ~s th~ I Single Service Executive Agency, and. heavier reliance on Third Parties, came to pass. The elaborate and expensive remoting option was implemented in later years, although not quite the way Allen
+envisioned it. But other options like major reductions in the Air Force's Rivet Joint airborne collection program fell to operational reality (and determined opposition within the' parent services). Still others, like ccntractorization, simply transferred the cost to another budget category while yielding only minor savings.
+(8 Ceo) While NSA struggled to protecUts resources from the budget axe, its mission
+emphasis changed dramatically. \ ==oJ
+\ [The real cuts had come at the expense of other production elements. The effort on Southeast Asia declined from 13 percent to 5 percent, whileG Group positions were down from 15 percent to only 8 percent,"
+(U) THE FIELD SITES ..
+....(€fIn 1970 the collecti~n site system stood at its highest level ever. Ninety-one sites were scattered throughout the world fromc:=J to Ethiopia. But the impending withdrawal from Southeast Asia, and the budgetary pressures that were moving J?oD toward contraction, were about to hit. I E.O. 13526,'section 1.4(c)
+Withheld from public release Pub. L. 86-36 .
+rop SECRET Ua411AA 26
+
+
+ DOClD: 523696 REF lD:A523696
+TOP S!CltH UMBRA
+,.OOrrhe collection site posture went into sudden freefall, and by the end of the decade only rllty-one sites remained. ASA was particularly hard hit, contracting from nineteen sites to nine. The Air Force lost half its sites, while the Navy, with a small-site posture and emphasis on worldwide DF, lost only seven of its thirty-six sites .
+..(s COot In Japan, each service lost sites to a base consolidation movement. By 1975 all Southeast Asia sites were closed except for Clark Air Base in the Philippines. In Thailand, the closure ofRamasun Station resulted from a political forceout by the nervous Thai government. Farther west, the Turkey sites, with the exception of Si,nop,were closed at the request of the Turkish government, while the Stonehouse facility in Asmara was victimized by the fallout from the Ethiopian revolution of 1975. The Navy site at Nicosia was converted to the first overseas remotingoperation in the middle of a civil war. Moving round to Germany, a massive base ~onsolidation movement, which hit cryptologic and noncryptologic units with equal fervor, resulted in the closure of Herzo, Rothwesten, Darmstadt, Bremerhaven, and Todendorf, and the collocation of mission at the new.Army FLR-9 site at Augsburg.
+!.G')The closures resulted from a complex of budgetary pressures from Congress and difficulties with the host countries. The period after the Vietnam War was one of exceptional instability in the Third World, and cryptologic sites, long held hostage to foreign aid by' host governments, were battered about quite unmercifully. If they survived at all, it was usually in an altered, and less favorable, condition.
+(U) Turkey
+Withheld from
+I E.O. 13526, section 1.4(c)(d) I public release
+Pub. L. 86-36
+(ug
+- Withheld from nublic release
+II Pub. L. 86-36
+~
+27 . T6P SECRET UMBRA
+
+
+ E.O. 13526, section l.4(c)(d)
+Withheld from public release Pub. L. 86-36
+\\000\
+1N M0
+HANDa; ViX JALl:141 itE1JI6te eSMIfJlteefl'PR9LSY6Rilf6 ••em'R Y
+QQ oH U
+28
+
+
+ OOClO: 523696 REF lO:A523696
+lOP SECRET!:IMBM
+I E.O. 13526, section 1.4(c)(d) I
+Withheld from public release Pub. L. 86-36
+IIANBb5 VIA 'fAr:.em K5YUeb5 eaMIN'!' eati'fR9= &¥S'l'EMS ,J9ImL¥
+29 lOP S&CR&T l:IMBRA
+
+
+ DOClD: 523696 REF lD:A523696
+1'6P SE(RET UMBftA
+Withheld from public release Pub. L. 86-36
+I E.O. 13526, section 1.4(c)(d) I
+Withheld from public release Pub. L. 86-36
+Withheld from public release Pub. L. 86-36
+I E.O.13526, section 1.4(c)(d) I
+Withheld from public release Pub. L. 86-36
+fl1diBt.fJ ViA fAbBtff ItS¥i19bS e9MUff 09NTROL 6'ISl'EMS cJQIN'l'J.Y .
+TOP SECRET l:JMBnA: 30
+
+
+ DOClD: 523696 REF lD:A523696
+'FOP SECRETUMBM
+E.O. 13526, section 1.4(c)(d)
+Withheld from public release Pub. L. 86-36
+CU) Ethiopia
+E.O. 13526, section 1.4(c)(d)
+Withheld from public release Pub. L. 86-36
+(U) Initially threatened by budget cutters, Asmara ultimately fell to a different foe Third World instability. The Ethiopian regime of Haile Selassie, widely admired for its courageous stand against Mussolini in the 1930s, had been enlightened and progressive, especially by the standards of the area. But as the emperor grew old, his attention wandered from the business of government.· Long-suppressed tribal rivalries became more important. In Eritrea, the Eritrean Liberation Front became one of the strongest of the regime's opponents, and warfare broke out. This was compounded by tribal unrest in other
+parts of the country and by a leftist movement within an increasingly fractured armed
+.~
+forces. In 1973 a devastating famine in Wollo Province killed thousands of people and brought unrest into the streets of Addis Ababa. The students were eventually joined by the rebellious factions in the army, led by a five-foot-three-inch martinet named Mengistu
+Haile Miriam, known ominously as the "Black Stalin of Africa."
+31 fOP SECRETUMBM
+
+
+ DOCID: 523696 REF ID:A523696
+'fOp SECRETl:JM8M
+(U) Ethiopia
+(U) HJalJaperiaJ ~esiy HaiLeSelusie I and Hon. Edw8l'd M. Kerry, U.s.· IUIIbaasador tolEthlopia, January 1967
+HMmbl!: VI•••'4':M.~Ff KE'iIIGbS GGMINTGGN'FR9h 8¥SHMS d91N'FJ,¥
+TOPSECitET UMIlItA 32
+·1 
+
+
+ DOClD: 523696 REF lD:A523696
+fep SEERn l:JMBRA
+(U) The revolution was initially bloodless. Key members of the armed forces, parliament, and the courts were rounded up and taken away. In September of 1974 the ruling Dergue (Amharic for "committee") arrested the emperor himself. After that, Mengistu abandoned all pretense ofbenevolenc:e. The capital became a bloodbath, and the provinces were roiled in unrest, famine, and fighting.zo
+(U) Even without revolution, Asmara had been under seige. When ASA departed Asmara, base support facilities devolved to the Navy. The Navy stayed for only two years, and when they left, the base lacked a school, a medical facility, PX, commissary, post office, and other necessary logistics. Limited support would continue under. a contract with Collins International, but that too would dry up in fiscal year 1976, after which time the base would be unsupportable.
+(U) What it did have was a mission, so the people stayed on, improvising as they could. Harris Corporation, one of the STONEHOUSE contractors, accepted a contract add-on to ,provide a doctor, while the Americans left stranded in Asmara organized a school with support froth the consulate. The school was located on Kagnew Station."
+I E.O. 13526, section 1.4(c)
+Withheld from public release Pub. L. 86-36
+(U) When the decision was made to close, the NSA contingent at STONEHOUSE was down to about 200 people, including dependents, Everyone lived on the economy, but gathered frequently for social events at the base officers club. That was the case the evening of January 31, 1975, when fighting broke out. Trigger-happy Ethiopian Army troops began fU'ing, apparently at rebel forces, and shots ricocheted through the walls of
+the club, while panicked Americans crawled under tables to get out of the line of fire, They
+waited through the long night on the floor ofthe club, the party at an abrupt end,
+(U) The next day the site chief, David Williams, and his deputy, Lewis Walls,closed the mission forever. With NSA's blessings, Williams began inauspiciously moving _ American dependents out of the country on commercial flights. Through February the effort picked up speed, and by mid-February only sixteen Americans were left at STONEHOUSE. 'They were engaged in packing all mission equipment for shipment on Ethiopian Airlines to Addis Ababa for repacking and shipping out of the country. They burned all the classified documents, and tried in vain to destroy the KG-13 crypto equipment with .incendiaries, (Incendiaries were notoriously unreliable, and Williams and his men wound up hacking them apart with fire axes.) 2S
+HANBLE 'ilcA:T:A:LEN'f KEYU6Ul C6f1UN'f CON'i'R6L 8\'S'fEMSJ61N'l'IX
+33 ' tpp SECRIiT UMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+1'6" SeeRE'f tlMBItA
+(U) Back in Washington, a behind-the-scenes struggle raged. P~ilip Habib at the State Department, with strong support from Secretary of State Henry Kissinger, opposed moving the Americans out of Asmara. Although Kissinger had support within 000, he did not have the support of'NSA's director, Lew Allen. In an angry letter to Kissinger on February 19, Allen said:
+I consider that there is no longer &Dyoperational need for StonehoWie commenaurate with the risk to my penonnel I have directed ChiefStonehouae to further reduce his workforee from 16 people to 8 people If local Asmara conditions further deteriorate. and in any cue when the packing and crating of my equipment is completed. it is my intention to further reduce my peI'llOnnelin Asmara below the eirht DOtedabove ...• The safety of my people i:S paramount. The safety of the equipment is secondary.
+The State Department authorized the closure of Kagnew Station only two days after Allen's strong letter. After the last piece of equipment was out, David Williams flew to Addis Ababa to supervise the shipment from Ethiopia. He himself' departed in April of 1975, the last NSA official out of the country.24
+(U) Thaliand
+(U) During the years of war in Southeast Asia, NSA had used Thailand as a principal base of'cryptologic operations. The original ceiling of 1,000 cryptologists, while being a nice round number, soon ceased having any relationship to reality, ~nd over the years NSA had brought more SIGINTersinto Thailand, taking care of' the increases with postfacto authorizations by the Thai government. After the 1973 Vietnam cease-fire, a large slug of displaced SIGllffers entered the country, to be officially authorized by the power less Thais.~
+(U) With the fall of Saigon in April of' 1975, the end of the American presence in Southeast Asia was only a matter of time. U.S. forces began leaving the country soon after, and the formidable base structure that had come into being during wartime quickly imploded. So where did that leave the cryptologists? \
+'(& The cryptologic presence in Thailand was only partly related to Vietnam.
+Moreover, there was still a requirement to monitor the new communist regimes in Vietnam, Cambodia and Laos. L..I -'
+,,,-'.~.--C.e-J..;,,' = <lJ I,C
+= e <Ii ~
+.S •• ~ I
+-- ••••• <lJ1,C
+CJ "O~oo
+'"~ - .. .
+...a <lJ CJ ...:l
+.c ._
+M .c - .
+Irl •• .=;..=;.
+~ .- = =
+,...; ~ Q.~
+~0
+II
+IlANDLS VIA TALENT K:I5'Yn9b5 C9M1N'f CONTROl;.SYST!lMB cJOlmbY
+TOP SECRR tlMBR:A 34
+
+
+ OOClO: 523696 REF lO:A523696
+TO' SECRET UMII,lt-.-----------,
+E.O. 13526, section 1.4(c)(d) Withheld from public release Pub. L. 86-36
+(U) Negotiations with the Thais consumed the whole of 1975, but with no resolution. The Royal Thai Government would clearly have been relieved to see the last of American forces, which by late in the year was made up of the cryptologists and virtually no one else . .The American embassy was on the side of the Thais, since the loss of the last American military forces would remove a thorn in the side of American-Thai relations.
+(U) But in the end it wasn't enough .. The Thai government was getting fierce diplomatic pressure from the PRe, with whom they were negotiating an improved relationship. Moreover, the Thai military-run government was being squeezed by an internal communist insurgency in the bush and an urban leftist student movement emanating from the universities. With the communists victorious all across Southeast
+Withheld from I E.O. 14526, section 1.4(c)(d)
+public release MA~mbE '1M 'FM.8Nf KJ!lYlI9bB 69MIN'I' 69N'PR9b SYSHMS J9JNl'DY
+Pub. L. 86-36
+35 . 'tOP SitRR UMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+lQP SEC:RETUM8RA
+Asia, everyone, it seemed, wanted to be on the winning side. America did not appear to be the winning side.
+(U) Udorn, the nearest large town to Ramasun Station, had a university, and it was full of restive students. In 1975 they got a cause, the infamous Leuchai incident. Leuchai, who managed the officer's club accounts, got into trouble with the base commander over the disposition of some monies and was summarily fired. But Leuchai had friends, and they brought out the students from the university. The base commander at Bamasun was confronted with daily demonstrations at the main gate. One day the military police, apparently thinking that the base area was sovereign American ~rritory, arrested Leuchai, and the demonstrations got larger. In the end, Leuchai was released, the American ambassador was upset, and the Thai government, with newly stiffened spine, was ready to order the Americans out of Ramesun, 28
+(U) The order to leave did not come until March 20, 1976, but in the intervening months the diplomatic game went back and forth several times. Operations at Ramasun became chaotic, as stop orders were followed by start orders. So when the order finally came to get out in four months, NSA and ASA were ready for a scorched-earth evacuation. The operation was shut down that very day, and the first transports began arriving at Ramasun within eighteen hours of the order. Operators took up wrenches, and the entire operation was torn down, to the last nineteen-inch rack. Everything that could be carried otrwasloaded aboard C-141 transports which were arriving in waves from Clark Air Base.
+~Within days, 33,000 pounds of equipment had been airlifted to Clark. The FLR-9 was rendered useless, and the station was turned over to Division Six as a gutted shell. The only things salvaged for Division Six were ninety-nine R-390 receivers. Although AFSC officially accepted the station, the idea of using it ior SIGINT operations was ludicrous. The bill to run the diesel generators for a month was higher than the entire Division Six annual budget.29
+~S eeO} The SIGlm redeployment plan specified that the mission of U.SM·7would be reconstlt~ted at Clark Air Base, home of USA·57, and that is where the people and equipment went. Unfortunately, no one thought to tell the Ameri~an ambassador, William Sullivan. When he found out, all hell broke loose in Manila, because the evacuation from Thailand had caused the cryptologic ceiling in the Philippines to go through the roof, so to speak. But Sullivan needn't have worried .. There wasn't room for the Ramasun equipment on the operations floor at Clark, nor were there logistics facilities to handle the flood of people. Just as germane, the Ramasun mission could not, by and large, be heard from Clark because of the vagaries ofHF propagation. (This had been known for many years by operators.) So the equipment wound up at Vint Hill, Virginia, and the people scattered to various SIGINT sites around the globe.. Clark Air Base picked up only fragments of the Ramasun mission. The FLR-9 electronics were never used
+again.so
+HkNflLe 'ilk .'fALEN'f KEYilOLE eOMfN'f eOtf'fROL SYfN5M5 cJOm'fb Y )
+(
+lap SECRElI;JMBRA 36
+
+
+ DOClD: 523696 REF lD:A523696
+lOP SEEREl UMBRA
+E.O. 13526, section 1.4(c)(d) Withheld from
+(U) Closures and Consolidations public release
+Pub. L. 86-36
+1S='eE3G+ In Germany I Ibase closures all resulted from budget cuts. The I Iconsolidation plan had actually originated from a study in 19~7 which showed the economies that could be achieved by closing the ASA sites at Reno, Rothwesten, and Bad Aibling and moving the people and mission to a single location. ASA organized the
+original I Icadre in 1968, and the station was officially up and running in January 1972. Two years later the Security Service site at Darmstadt was closed, and the people and mission joined the triserviceoperatiorr
+I
+om se 36
+Withheld fr public relea Pub. L 86
+(U) The Airborne Communications Reconnaissance Program (ACRP) also slimmed down. In the 1960s it had consisted of a welter of strategic and tactical programs under various jurisdictions and controls. An Air Staff study in 1971 showed clearly that the program could be more economically managed if it were consolidated as a single program under a single manager. The outcome of the study was the RIVET JOINl' program. Under it, the worldwide ACRP programs were consolidated into a single airframe, the RC-135. Twelve airframes were modified for both COMINT and EUNT collection by E-Systems in Greenville, Texas. The Air Staff recommended that the new Airborne SIGINT Collection Program - ASRP - be jointly managed by SAC and USAFSS. Moreover, the new program operated under the Air Force's MOB-FOB concept. That is, there would be a main operating 'base - in this case Offutt in Omaha, SAC headquarters- and forward operating bases in each theater. The crews and airframes would be based at Offutt and would deploy to the forward bases on TDY for missions: The new RIVET JOINT marked the first successful attempt to rationalize and centralize a large number of programs that had grown like weeds duting the Cold war.P".
+i'
+IIANBJ:J! VIA TALENT IUlYUOLE eOMn,'l' eOU'PROL SYS'f'EMS d9Uf'fb¥
+37 TOP SECRET UMBRA
+
+
+ DOClD: 523696 REF lD:A523696
+TOP SECRET tlMBItA
+(U) Tactical Systems
+(U) The war in Vietnam had displayed the inadequacies of the tactical SIGINTsystems that had rusted away during the era of nuclear dominance. Vietnam prpduced a spate of· development programs to fix the problem .
+.(Gr The Army came up with several .entries. CEFIRMLEADER was an airborne communications intercept, DF, and jamming syste~ aboard RU-21 dual-engine ~ircraf't. that had proved SO useful to the ARDF program. CEFIRM LEADERsupported tactical commanders at brigade, division, and corps levels. A second program, CEFLY LANCER,was a modernized version of the ARDF program, designed for deployment to Germany. The Army, being decentralized, fragmented its SlGINTeffort.~ .
+«*1'he Air Force, being farthest behind the curve, had to develop a system from scratch. Their entry was COMPASSEARS,a complete tactical SlGlNT support system based in mobile shelters. The collection system, called COMFYLEVI, was mostly airborne - two mobile shelters stuffed into a slightly modified C-130. Processing and reporting were done in tents and shelters located well back of the combat zone. As with Air Force doctrine generally, this system was highly centralized. There would be only one per tbeater."
+..
+J£f The Navy was least affected by the commotion in Vietnam. What was needed was simply an updating of shipboard SIGlNTsupport that had existed since World War II. The new program was called CLASSICOUTBOARD,an automated system designed to work
+against mobile naval emitters,l I
+. $Cf Even NSA came up with a "tactical" system. Thel I program, an ELINT
+innovation, permitted NSA to deploy ELINTintercept equipment I I
+I IThls highly successful effort was one of what would become a large number of quick reaction systems to work against specific technical problems. sa
+(U) REMOTING
+(U) Tennis
+'(s'CCaTThe origins of cryptologic remoting were in 1962 and stemmed from an idea attributed to Joseph Horn, an NSA engineer. The first communicationssatellite, Telstar, had just been launched and, with it, a new era in communications. Horn, in a paper entitled "A Proposal for Utilization of Satellite Relays to Provide an Early Warning and Extended SIGtNTCapability within the ZI," proposed that NSA look into the possibility of remoting signals intercepted in one location to another. The technology, he felt, could be developed to send large chunks of the RF spectrum from an overseas location to a location in the United States. Horn justified the effort that would be required on the basis of improved timeliness, reduction ofSIGINT people overseas, and cost-cutting."
+lOP SECRET l:JM81tA 38
+
+
+ DOCID: 523696 REF ID:A523696
+'fe' SECRET UMBRA ,--------
+I E.O. 13526, section L4(c) I Ip·L. 86-36 I Withheld from public release
+J$f The proposal generated interest, Pub. L. 86-36
+and in 1964 NSA conducted experiments to see if what Horn proposed was really
+possible. I I
+\'-----
+It worked, and everyone was ecstatic. aut for several years, that was it. The idea languished, awaiting sponsorship. 40
+~ Horn's idea was revived in 1967 when K Group (which at .that time dealt with collection and signals analysis) established a study group headed by Alfred W. Andrews. Andrews named his project "TENNIS," a name evoking a signal, as if a tennis ball, bouncing back and forth between communications satellites. Within a year Andrews had produced a
+preliminary concept for remoting] I
+I Iback to a location at NSA. (U)Jo8epb Horn I Isites were small, and the Andrews group simply discarded them from the study because the expense of installing the operational and communications equipment for such a small site would not be feasible. The group took it as a given that the, technology was there - what was needed was practical appllcation."
+~ The TENNIS idea did not have many sponsors in the early days. In particular, Dr. Albert Hall, assistant secretary of defense for intelligence, was known to oppose it as too expensive and technologically risky. But within NSA Dr. Robert Hermann adopted it as his own, and he set out to get sponsors, He created an "Industrial Advisory Board" to study the issue and enlisted important people from private industry to help him. His first ally outside of NSA was William Perry of ESD, w.howould later become secretary of defense. Within NSA, he had the support of Oliver Kirby, the assistant director for production. With this level of support, Hermann embarked on a major feasibility study. '2
+(8=000) The original I Istudy, published in 1969, proposed to remote I I
+I Ito collection centers in the United States. Candidate locations wer~ \ Petaluma in
+California, \ I The follow-on system development plan produced the following year planned for an initial system, called PILOT TENNIS, in which
+I . . I in the U.S. The presumed success of the pilot would result in a wave of support, and by 1975 some thirteen Withheld from sites would be part of the TENNIS system. NSA would close seven European and Mideast
+public release locations and six in the Far East. A residual force of about 20 percent of the total would
+remain in theater for tactical support. The savings would be staggering. Overall CCP
+Pub. L. 86-36 I E.O. 13'526, section 1.4(c)
+}MNl)bE 1Jh\ 1\'d.5N'I' KE¥HOLE COMIN'f eON'i'R6L SYS'fEMSJOIN"fLY
+39 TOP SlieR&; UMBRA
+
+
+ OOClO: 523696 REF lO:A523696 Withheld from
+TOP SE(RE'l' tlMBItA public release
+I E.O. 13526,section 1.4(c) Pub. L. 86-36
+economies would range] Icould be
+eliminated. SOmeI Icryptologists overseas would come back. But the
+.up-front costs were equally hug~ [for the system through 1978 and 0
+I Ito acquire dedicated communications satellites that were presumed to be
+required.f .
+"(S) TENNIS produced arguments galore. The biggest dispute was over thel I , ,Iapproaches. Horn had originally envisioned remoting large portions of lto the States,l Iand Petaluma.
+~ The competing technology came to be called the long screwdriver approach. In this method, the ooerator sittin~ in the U.S. would remotely tune a receiVer in an overseas
+location. I
+I
+..£S..COO) TENNIS also produced arguments over management. Theoretically. every intercepted signal in the world could be collected into a single facility, unot a single room. .Where would such a facility be? Was there enough room at Fort Meade? How would it be managed? What would the relationship be between collection and processing? Would operators accept being jerked out of their overseas bases and dumped in the high-cost Washington area? What kind of morale problems would result? Many elements of the Production organization lobbied for a TENNIS simulation facility to test out all these problems - a fly-before-buy approach. The engineering side naturally focused on the technical hurdles and ignored the management implications. A TENNIS simulation center was planned, but was never implemented. NSA bought the technology without testing the management problems rust."
+eel Ultimately, NSA succumbed to cost considerations and went for the long . screwdriver technology. Even under thel [program, however, communications
+requirements were stupendous. For instance, remoting the I I
+I I· This was why NSA became
+the largest single user of DoDcommunications satellite capacity."
+(s CCot Dr. Hall continued to hold onto monies that NSA wanted for TENNIS .. Hermann's approach was radical - rather than scale back on the program to reduce the threat, he sent Hall a new proposal expanding TENNIS to include sixteen overseas sites, virtually wiping out the SCE component of the cryptologic system. All CONUS operator billets could be civilianized, less a 25 percent residual for tactical support. Financial
+Withheld from I E.O. 13526,section 1.4(c) I public release
+Pub. L. 86-36 I1AtiB1J!l "'bit 'I'*LflN'f K£lYliaLEl eaMIN' G9Pf'fR9L&¥S'HlMBcJ911'R'bY
+lOP S&CRE:rUMBRA 40
+
+
+ OOClO: 523696 REF lO:A523696
+Tep SECRET l:JMBRA
+savings from pulling people out of overseas locations and putting them in a single collection facility would be huge, both in direct operational costs and in logistics and overhead. Hermann's forceful approach finally got a tentative go-ahead from Hall.4i1
+I
+j..e) Table 447 - E8tima~d TENNIS Communications Requirement by Site
+E.O. 13526, section 1.4(c)(d)
+Withheld from public release Pub. L. 86-36
+~ When the Clements cuts hit NSA in 1973, the TENNIS concept seemed a heavensent solution to the budget crisis. Lew Allen became the director in AUgust 1973, and he barely had time to put his hat down before confronting the issue. Remoting seemed to be the answer, and he promptly convened a panel to consider it. He called it the DRA WSTRlNG TaskForce.
+(u) Allen came from the high-tech side. of the Air Force, and he was well connected with private industry, which he considered an essential partner in solving big problems. The task force was composed of only four NSA people, plus representatives from fourteen companies, including such industry giants as Lockheed, Hughes, and IBM. Lew Allen
+Ifh~t91oEYM 'f>I<IoSl1'l' KE'fl19lJil C9MIN'P C9N'1'ReL SYSTSMS cl9Uffb¥
+41 Tep SECRET UMBRA
+
+
+ E.O. 13526, section 1.4(c)(d)
+Withheld from public release Pub. L. 86-36
+MANN 1["" TeT XVTYF¥WQ' F'OM~'1TCOll;:ag"i~ln;JQnPI'L·r
+ocH U Tet SEEllETIIMBM 42
+o
+
+
+ DOClD: 523696 REF lD:A523696
+Withheld from
+I E.O. 13526,section l.4(c) public release TOPSECRETlJMBRA
+Pub. L. 86-36
+understood that the cryptologic community could not work its way out of this jam without . help.4I
+...(CCC~ He instru~ted the group to conside~ only I ~ They had t~o options:
+modernize I lor use remoting. (Standing pat was not an optiqn.) The objective was clear - they were to devise a SIGINT system that was much less costly than the one that existed .
+.(S eee) The task force cast aside casual tinkering and recommended radical surgery. Although they did consider modernizing the overseas sites, they ended up recommending that the whole lot be remoted. I ITask Force recommended that every site remainingl Ibe remoted to Fort Meade.
+Ir
+J!J'f Savings under the modernization option would be significant, ,but using the remoting concept they would far exceed the 3 percent cut mandated by Clements (see Table 5). Of course, DoD would have to wait a few years for the return. The entire
+remoting scheme would cost I I, to be spread over a period of years from fiscal year 1976 to fiscal year 1981. Although each year's personnel savings would be significant, the procurement costs would not be completely amortized until fiscal year 1983 - fully ten years down the road .
+.(e') Full remoting would require that ate. would pass
+back to Fort Meade; L..- --'
+?=====;- .••o•:•-.-=.re=m=o:£te::-:s:::u::-chL1:h:::u:-::g=-e-:tvh=eoTp:laun=elm=ree=c-o=ms:-m:;eonfdrelddata,that NSA purchase its own satellites rather than rent from the Defense Communications Satellite System (DCSS). Purchase would be more expensive, of course, but the amortization difference would only amount to less than a year. ~
+51
+Current Remoting D
+modemization
+Number 00
+positions f-
+Personnel ~
+AnnualCCP cost ~
+Estimated cost
+ofremoting
+is.eG~ Table 5
+. Thel IPlan Costs
+,{S:.CGeTThe organization at Fort Meade would be a riightmare. Here, the panel only hinted at solutions, but did originate the concept of the "problem center." which was to
+Withheld from I E.O. 13526,section 1.4(c)
+public release ~ .n•••••v•••
+Pub. L. 86-36 _.
+43 19P5~CRETl:JM8RA .
+
+
+ DOCID: 523696 REF ID:A523696 Withheld from
+TOP SECRET UMBRA public release .
+E.O. 13526, section 1.4(c)(d) I Pub~.L. 86-36
+have a long life. At the Fort, signals would be shunted to areas that worked certain
+problems - for instance, all I I would go to one area. This would permit customized processing operations and would reduce duplication. For
+. instance, the problem center I Iwould not require a timely reporting
+mechanism, while the problem center (or "PC~) I Iwould not need equipmentl ~for transfer to the computer complex in the base~ent. 52
+'(Q Consolidation at NSA would permit the introduction of many efficiencies that ~ight be unafTordable in a dispersed system. The panel foresaw the automation of search through the employment of automated sean systems/
+Withheld from
+I
+pubIic release
+'-------~. I Pub. L. 86-36
+~ What emerged from,the private sector's blue-sky planning was an implementation
+plan, I , It represented what the cryptologic community could get
+. cranked into the CCP, and it was much different from thel Isystem. Under it,
+NSA scaled the system back to I " a far more realistic plan, more in line with the
+original TENNIS planning (see Table 6).
+~ Out of the c=JbilIets at theC] 8.ffectedsites,Dwould'remain overseas to do tactical support, Peacetime Aerial Reconnaissance Program, and 0Ter o~tions that would be difficult (ifnot impossible) to perform from Fort Meade. Some ople would
+Withheld from I E.O. 13526, section 1.4(c)(d) I·
+public release
+Pu b. L. 86-36 IlAUBLI!l 'lilt. 'l'ld:J!lN'f KFlYil6L1!l e6M1N'f eeN'fROL 9'IS'fEMs .JelN'lL Y
+Tap SECRET UMBRA 44
+
+
+ DOClD: 523696 REF lD:A523696
+fe' SECRET UMBRA
+be moved back tothe collection operation center at NSA, and the billet savings would be onlyc=J The plan allowed for some medernizaticn at the residual overseas sites, but
+.offered specifics in only one case - the Navy site I I which would stay largely
+untouched by remotingl I At Fort Meade, the "problem center"
+organizational scheme was adopted from the I ~plan.
+J.G1 While the] Iplan remained through the end of the decade, harsh . realities soon intruded. Remoting would incur very high initial costs, and the ever-present Dr. Hall was willing to proceed initially with only one site./
+I
+(U) Not even I Isurvived intact. Pieces of it were eventually
+~ ~ ~ implemented, but they resulted from pressures and events not even anticipated when the
+l.o ~ I
+•••.• '~ \C plan was written. The name survived, but the eventual system could not have been.
+'"O~QO
+- l.o recognized by the original planners.
+].::! ~•
+~::O~
+.- = = (U\l
+~ c.. ~ 11'-- _
+16+ The first remoted site had nothing to do with the grandiose plans originating from
+.thel . Iplanningefforts,1 I Instead, thel Ibecame the guinea pig for the whole system.
+mrmLE VI,* 'f'IcLEN? KEYJfaLE CaMIN? CaNfft6f:; S)"S'fEMS40JN'fbY
+45 lGP SECRET YMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+TOP SECRET UMBRA
+Withheld from public release Pub. L. 86-36
+I
+E.O. 13526, section 1.4(c)(d) I
+Withheld from public release Pub. L. 86-36
+Withheld from public release Pub. L. 86-36
+19P SECRET tJMBItA 46
+
+
+ DOClD: 523696 REF ID:A523696
+Tap SECRET tJMBItA
+Withheld from public release Pub. L. 86-36
+I E.O. 13526, section 1.4(c) I
+Withheld from public release Pub. L. 86-36
+Withheld from public release Pub. L. 86-36
+WAI>1'DY; ¥I'" 1"'1:01'>1>11 KE¥H9I:oE 09MI!fl' 09!fl'a9hS¥STEMScf9INTh¥
+47
+
+
+ DOCID:523696 REF ID:A523696
+'fOP SECRE'f UMBRA
+Withheld from public release Pub. L. 86-36
+E.O. 13526, section 1.4(c)(d)
+Withheld from public release Pub. L. 86-36
+Withheld from public release Pub. L. 86-36
+HId~BtiE -iIA T/d"flNT KE"t 1I6t1f.l eaMIN'!' 06NTR8b- S¥SifiMS cJ91N'FC '[
+TOP SECRET l:tMlItA 48
+
+
+ DOCID: 523696 REF ID:A523696
+. fOP SECRETUMBM
+I E.O. 13526, section 1.4(c) I
+Withheld from public release Pub. L. 86-36
+(U)AROF
+I E.O. 13526, section 1.4(c) I
+Withheld from public release Pub. L. 86-36
+Ib\NBbI!i VIA 'I'1tbEN'f KE'iH6LE e6MfN'f e6NTR6L SYSfilMS J6IN'fLY
+49 Tap SECRET l:JMBRA
+
+
+ DOCID: 523696 ) REF ID :A523696
+T9P SECRET I:IMBRA
+Withheld from public release Pub. L. 86-36
+I E.O. 13526, section 1.4(c) I
+(U) The technology was different. though. ReA had custom-ciesigned the collection consoles. The Hazeltine receivers had an autostepping feature which eliminated handcranking a tuning knob in the time-encrusted method used since the invention of the radio. The time delay inherent in AROF remoting was almost a second. so for the operators everything seemed to be stepping in slow motion. The IATS system which still dominated the field was not in evidence in AROF. Instead. each position was equipped with a minicomputer to digitize the collection for later proeessing.f.9
+(U)BROF
+Withheld from public release Pub. L. 86-36
+I E.O. 13526, section 1.4(c) I
+Withheld from public release Pub. L. 86-36
+rtXNDL! ~ 1;1\ TitLENY KE'f HOLE COMINT eON'fROL S'lS'fBMS cfOfN'fb¥
+T9P SECRET UMBRA 50
+
+
+ j
+OOCIO: 523696
+E.O. 13526, sect ion 1.4( c)( d) I
+REF IO"A523696
+" Withheld from
+lOP SECRET UMBRA public release
+Pub. L. 86-36
+(U) Remoting the Sinall Sites
+~ TENNIS was never intended for the smalJ sites I I It had become a truism early in the project that the cost of earth terminals and ancillary equipment would make such a proposition uneconomical.
+I
+TENNIS, DRAWSTRlNG,C]
+lall presupposed thatl Iwould become candidates for remoting .
+..(Ceca) The implementation or remoting stood this assumption on ~ts head. As it turned out, the big payoff was in small-site remoting. Part oftms resulted {romthe deeline in earth terminal Icosts, but mostly it related to the importance or the mission. The small
+sites, with their land highly selective focus I I
+became the high value items in the system. .
+(TSCCO TK) The fll'st step was data linking, in which operators at overseas sites intercepted signals and plugged the receiver outputs into communications channels.
+With~eld from I E.O.13526,-s-ec-ti-o-n-l-.4-(c-)-(d";"')public release
+Pub. L. 86-36 UA:NBL6 Yb\ 'ftd;Elfl' KEYUeLE eeMlN'f eeN'i'R6L S'lSftlMS d91N'£L¥
+51 TOP SEeR!T tJMBRA !
+
+
+ DOClD: 523696 REF ID:A523696
+'FeP SECRET tJMBRA
+Withheld from public release Pub. L. 86-36
+E.O. 13526, section 1.4(c)(d) I
+Withheld from public release Pub. L. 86-36
+UA-NBI:B ViA TAI:BNT KeYI let:l!l eeMllff e6foftIt6L SYStEMS J6lfftLY
+TOP SECRET \:JMBRA 52
+
+
+ DOCID:'523696 REF ID:A523696 Withheld from
+T()p SECRET l:JMBRA public release,
+I E.O. 13526, section 1.4(c) I Pub. L. 86-36
+\'l's-ec~The advantage of data linking was speed - critical signals could be intercepted, forwarded and processed in something approaching near real time. It did not ' remove the operator at the distant end, nor did it reduce the number of people in the system. The operational payoff could be significantl Ibut these operations did not help withoverseas visibility, international balance of payments, " or CCP reductions.
+'"$) The next system was a true remoting op~ration.1 Ian Army-sponsored
+project, sprang from the dismal budget-cutting days of the late 1960s, when ASA was
+.strapped for cash and looking for,a way to'reduce expenses. Th~ Isites,
+although top producers, had been a financial drain for years. They were expensive to keep operating,\
+/
+tTS-CC9-) NSA recognized immediately that the potential payoff fori rem'oting w~s far greater than ASA realized.'
+I
+lTS-C~'In a lengthy memo in late 1971, MajorJGeneral John Morrison, NSA's ADP
+(assistant director fo~production, i.e., DDO), laid out the prospects. \ Icollection
+had to be data linked back to NSA. ASA's I Iwas a good idea, but it got the
+material only part of the way home. NSA needed a data link to get I I
+I Ito FortMeade.7i ' ,----------:-
+I E.O. 13526, section 1.4(c)
+Withheld from
+public release IlJ.NBh£ WA fAbSl\''f' JfBYUebS C9MINT SeN'FR9b SY-STSMS49lNTbY
+Pub. L. 86-36
+53 l6' SECRET l:JMBR:A
+
+
+ OOClO: 523696 REF lD:A523696
+"FOP SECRET l:JMBRA - Withheld from ~ public release
+I E.O. 13526, section 1.4(c:)LJI .. Pub. L. 86-36
+.~ NSA's engineers became involved r- I from its inception, and in October of 1970 the ASA project manager, Colonel Vernon Robbins, formally invited NSA into the development process: ASA resources were strapped, and onlylNSA could provide the expertise to steer such a large project. NSA's.Richard Bernard was named the deputy project manager." .
+is-GCO) The combined ASAINSAproject planning committee selected Radiation (later called Harris) Corporation as the prime contractor and let a contract for $25 million. The
+committee had to scale back an early proposal I I
+I rAIillough NSA and Harris became ensnared in the almost inevitable cost overrun disputes, the system succeeded technically and operationally.lIl
+~ For NSA, the payoff was the d~ta link. I
+I IE
+Withheld from I E..OO.: 13526
+13526,, section
+section 11..44((c) I
+public release
+Pub. L. 86-36 HANDLE VIA TALENT KEYHOLE COMINT CONTROL SY:
+TOP SECRET UMBRA 54
+
+
+ DOClD: 523696 REF lD:A523696
+lGP SECRIiT UMBRA
+Withheld from U Guardrail public release
+E.O. 13526,section 1.4(c) Pub. L. 86-36
+$) Once remoting was available, everybody wanted it. The earhes ie app ica ons were in Southeast Asia. where NSA began remoting signals from isolated mountaIntops during the later stages of the war in Vietnam. Called EXPLORER, this program got people out of danger zones and back into defensible base areas, while leavini the equipment {antennas. receivers, and communications) in exposed locations. The aptly named Black Widow Mountain along the Cambodian. border was the most famous of the remoting operations.
+~) Remotingwas next employed to fIX serious SlGINT support problems I IThe
+problems I Iarose from the disparity between tactical systems available to field commanders and strategic systems tailored for national-level support. By the early 19705, strategic SIGlNT had far outrun what was available tactically. In September of 1970, I Icomplained to Admiral Gayler
+(then DIRNSA) that his SlGINT support assets were not what they should be. I I
+I I His mobile collection equipment was antiquated I I
+Moreover. the intercept vans. I I
+1 Iwere too slow to get out of the way in case of attack I I
+I I Communications were clearly
+inadequate] . I
+-tG)1 Iknew about the systems that had been devised for Southeast Asia. and
+he wanted them j I He wanted airborne systems that did not have to retreat over roads that were vulnerable to interdiction. He wanted communications to get the intercept back to safe areas where they could be processed. And most of all, he wanted ARDF.83 I.
+ts) At NSA. Gayler instigated a planning whirlwind. He sent an NSA team I I to look at the situation. The team devised a radical solution - an airborne remoting operation similar in concept to the! Iin Southeast Asia. When the matter came to a head in a JCS meeting in January of the following year, NSA was ready with the solution. The Agency called it GUARDRAIL. 114
+'tCl GUARDRAIL would\
+I
+1'S=€GQ) The first test was only partly succes·sful. I
+~======~--------------------~--~[
+Withheld from I E.O. 13526,section 1.4(c)
+public release Pub. L. 86-36
+U. NIl' Ii' 1l[' TAoII~ UYUObi CQunn Cg~ROJ. S¥iTims JOl~Y
+i
+5.5 . tOP SECREt UMIIR.l
+
+
+ DOCID: 523696 REF ID:A523696
+TO' SEeRET tJ MBRA
+Withheld from
+public release
+(U) Guardrail aircraft
+I E.O. 13526, section 1.4(c) Pub. L. 86-36
+ffi.-OOO) GUARDRAIL II was a s ctacular success.
+~ Early GUARDRAIL was an Army-specific asset. Despite the fact that air-related intelligence dominated the collection "take," the Air Force participated reluctantly, and then only after considerable prodding at the JCS level. One Air Force problem was
+survivability. The U-21 was a propeller-driven utility aircraft! I
+I I The U-2 would be a far better platform. 88 It may also have been
+Withheld from I E.O. 13526, section 1.4(c) public release Pub. L. 86-36
+lIA1U)LE • I* TALENT KE i'HOLE eOMmT eOH'fROL 3'fBTEM5JOUfl'L ••..
+TOP SECRET t:JMBRA 56
+
+
+ DOCID: 523696 RE'F ID :A523696
+lOP SECRET UMBRA Withheld from
+I E.O. 13526, section 1.4(c) I public release Pub. L. 86-36
+that the Air Force feared Army dominance and wanted to use Air Force money to fund its '----------' own systems.
+«»-CUARDRAIL II became the final system. Even prior to its deployment, the Army,
+'--_---.II and NSA had all agreed that it would be left behind to provide tactical support. , There were no plans to fund a production system. at
+tested
+~ This changed radically in 1972. Major General John Morrison proposed an
+lto do the same work 1 Ithat GUARDRAILwas doingD . ';::1 =='I-:A:-:t-a-s-:-tr-o-:-k-e--,=-NSAwould be satisfying the constant demands of American commanders ine=Jto improve SIGINTsupport and add a DF capability. 91
+~CCO) The final system, called GUARDRAlLIV,looked a lot like GUARDRAIIL I' but it did not solve the strate 'c-tactical interface roblem. It used U-21s, It remained an integral part of the strategic SIGINT system. ' Once again, the Air Force entered the system reluctantly. Its concerns probably related to afear that GUARDRAILIV threatened the continued viability of the RIVET JOINT fleet, rather than to any criticism of the way the program operated tech~ically or conceptually. 92
+(U) REORGANIZATION
+(U) The war in Vietnam produced wide dissatisfaction with the performance of intelligence. This was in some ways unwarranted.. It had performed better than in Korea, and the problems that beset intelligence early in the war were on the way toward solution' by the time Richard Nixon became president in 1969. But the perceptions persisted and led to demands for change ..
+(U) The Fitzhugh Panel,
+(U) When Nixon assumed office, he called for a reexainination of the total Defense etTort, appointing a blue ribbon defense panel to recommend changes. The panel conducted the broadest review of the Defense Department since the Hoover Commission of the mid1950s. Part of that effort was a Panel on Command Control and Defense Intelligence
+Withheld from I E.O. 13526, section 1.4(c) I '
+public release H.Y'lDJ:.S'/M'fM.EN'fJtS'fI19l:J1lCaMINfCON'fReLSYSTEMSJOfNTLY
+Pub. L: 86-36
+57 +oP S&CRET UMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+TOP S!CR!T tJMBRA
+chaired by Gilbert W. Fitzhugh. This committee consisted primarily of industry figures
+..
+and lawyers and was clearly intended to represent a totally dispassionate view of Defense intelligence. lIS .
+.,
+(U) The committee discovered that management was fragmented (not the fll'St time someone had discovered that salient fact), uncoordinated, and not well focused. There appeared to be no effective control of intelligence requirements, a great deal more information was collected than was required, and consumers were overwhelmed by a welter of disjointed reports from all corners of the intelligence structure. DoD had never developed a substantial corps of intelligence professionals. (The only exception appeared to be NSA, which had obtained special legislation.)
+(U) Fitzhugh recommended that the Office of the Secretary of Defense focus intelligence management under a single deputy, called the assistant secretary of defense for intelligence. (At the time, intelligence was loaded onto the assistant secretary of defense for administration as an additional duty.) Under him there would be a Defense Security Command (consciously modeled after the NSA structure), which would enjoy broad authority to supervise DIA, NSA, and all other Defense intelligence." Such changes might have been logical but politically fell very wide of the mark, The Fitzhugh Panel had little ultimate influence over the course of actual events.
+(U) The Schlesinger Study·
+(U) The Fitzhugh Panel had no .sooner submitted .its report than the president commissioned another study. But there were differences. This new study, chaired by James Schlesinger, head of OMB, dealt exclusively with intelligence, while Fitzhugh had also looked at command and control. More important, Schlesinger examined all of intelligence, while Fitzhugh had looked only at the Defense Department. 9~
+(U) Not surprisingly (considering what job he held), Schlesinger concluded that intelligence centralization could best be effected by giving the DCI broader budget authority. Nixon invested then-Del Richard Helms with .a broad grant of authority to review all governmental intal l ige nee activities in order to rationalize programs and priorities within .(U) Jame. Scbl •• lD,er
+IIAffDLE •.•I•A 'fAUlN'f IES'fIf6tEC6MIN'f CONTROL S¥SiEMS cJ91NTL¥
+fOP SECRET UMBRA . 58..
+
+
+ DOClD: 523696 REF lD:A523696
+lOP SECRET tJMBJtA
+. the budgetary structure. But Nixon and Helms did not get on, and the president never followed this up with specific authorities for his DCI. Helms was left to study, to coordinate, to cajole, but he was no closer to reigning in the disparate parts ofintelligence,
+particularly those in Defense. He never did get what the Schlesinger study promised
+. him." . .
+(U) Helms did accomplish one thing, however, that had long-range effects. He created a small staff, composed of a cross-section of the intelligence community, to look at the budgets of the respective (and disrespectful) agencies. This staff still existed at Langley in 1973 when Schlesinger became DCI. The new intelligence chiefs intentions went awry as he struggled to contain the damage CromWatergate by reorganizing CIA, but he definitely
+•
+intended to grant that staff more power. William Colby, his successor in the job, pushed the status and authority of Schlesinger's small stafr, which had become known as the IC (Intelligence Community) Staff. At the time, President Ford issued a new executive order putting teeth in the IC Staff's authority to control the budgets of the warring intelligence agencies, and in 1978 President Carter issued 'the executive order which gave the DCI "full and exclusive authority for approval of the National Foreign Intelligence Program budget." By then the IC Staff had moved into its own quarters in downtown Washington, and thus attained its own facility, with its own identity. 'n
+(U)CSS
+(U) The cryptologic reorganization that occurred in the early 1970s was the culmination of two decades of conflict between NSA and the JCS over control of cryptologic assets and operations. As NSA gained more authority and as the cryptologic system became more centralized, Pentagon officials became less and less pleased. A decade of war in Vietnam had produced, among other things, an internal war over cryptology. NSA's attempts in the 1960s to further centralize the business were bitterly opposed within the JCS, which had embarked on efforts to fragment SIGINT by shaving off small areas that· they could call by different names (electronic warfare - EW, electronic support measures ESM, etc.) and rid itself oC the codewords that controlled dissemination. By the'time James Schlesinger looked at the organization of intelligence, thedeepfissures between NSA and the armed services had become almost unbridgeable.
+(U) Schlesinger intended to solve the problem for all time, in NSA's favor. Clearly driven by budgetary concerns, he proposed to stamp out any JCS control over, and even involvement in, the SlGINT business. The dispute over the control of cryptology that had continued since the end onVorld War II would come to an abrupt end..
+(U) The "end of the war" came on November 5,1971, when Richard Nixon announced the conclusions of the Schlesinger Study. Buried in the text of this "Nixon Jetter" was the announcement that, by the first day of the' following year, there would be a "unified National Cryptologic Command" under the director, NSA, for the conduct oCUnited States government communications intelligence and electronic intelligence activities. 98
+I+AN91:d5 11ff< 'fttbENf KFJ"1l0LFJ COMlm' CONTROL SYI9'fEMS JOIN'fLY
+59 Tep SECRET lJMBAA
+
+
+ OOClO: 523696 REF IO :A523696,
+TOP SECRET UMBRA
+(U) And then controversy erupted. What was a National Cryptologic Command (NCC)? What did the president intend it to do, and what were its authorities? Was this really the end of SeA independence? What would the new organization, control? What
+was meant by "command"?
+(U) Many, both within NSA and without, felt that it meant the death ofthe SCAs, and a new organization chart was even prepared showing all service collection activities directly under DlRNSA. One view was that the chief of the NCC would also serve as DlRNSA. In one role he would control the national cryptologic system as before; in the other, he would command the SCAs through the JCS chain of command. Most agreed that the SCA th~ater headquarters would expire arid that their functions w~uld be effectively assumed by existing NSA theater organizations. The opinion of Admiral Gayler counted the most, and Gayler viewed his role as akiri to that of a Unified & Specified (U&S)
+
+commander, with total control over assets within his purview.
+,,-,
+.'.<.,:-.J' (8=CCO) In the Pentagon, near panic ensued. Theoretically, the NCC would control all SIGINTcollection.This could include the Navy's VQ squadrons, the Air Force's EC-47, and
+.= 5 ~ ~
+.•9.. ..o=
+'
+'.~". ~ the Army's U-21 ARDF capability, the overhead
+~~ I
+<:~J
+II
+"0 ~oo
+
+"~
+vi . mission ground stations, tactical EUNT(including the Third Party programs that the Air
+-..=: -> . Force had guarded for so many years) ~ IUnder its NeC
+I~f N) .- .::! ....:l
+.•.....c..c programs rendering
+c=..= hat, NSA might begin managing Army and Air Force tactical SIGINT
+~ support to field commanders. At the very least, the struggle to control EW and ESM
+0 ~ programs would be resolved in NSA's favor.
+~ (U) DIA predicted that NSA would swing hard toward satisfying national requirements and would cease paying any attention to the satisfaction of the SIGlNT requirements of tactical commanders. The independence of the SCAs would end, and, . worst of all, tactical ELlNTunits would find themselves answering to NSA through the
+NCC.1l9
+(C) Within NSA a certain smugness settled in. The war was over, the battle was won, and to the victor belonged the spoils. The spoils consisted of those SIGlNTassets that had formerly been controlled by rival factions: primarily the. armed services and CIA. As November faded into December, plans were being laid to assume control of the outlying assets that NSA·had never owned. This was a big win - a major revolution in the way cryptology was handled.
+(U) But things began to go awry even before the end of the year. On December 23, Secretary of Defense Melvin Laird informed G~yler that 'the new organization would not be a command - it would be called the Central Security Service. Implicit in the new name was a diminished world view. "Services," after all, could not exactly "command." Laird instructed Gayler to come up with an organizational plan and to create the new organization by February 1, 1972, a slippage of one month from Nixon's or igina.l deadline. 100
+IIAND~ VIA 'fALEN'P ICSYlIeLEl eeMfN'f eePffROL S'IS'feMSJOflffL¥
+lOP SECRET UMBIbtc 60
+
+
+ DOCID: 523696 REF ID:A523696
+lOP SECRET l;IMBRA
+(U) Concurrently, a new NSCID 6 was being written. Issued in February of 1972, it gave NSA significant new powers - and failed to give it others that, in the heady days of November 1971, folks at Fort Meade assumed they would get.
+)e) The directive officially established CSS, which would be collection oriented, and would "include SlGlNT functions previously performed by various Military Departments and other United States governmental elements engaged in SiGINT activities." It did not define these functions, nor did it refer to CIA, which by omission managed to hang onto its SIGlNT system. The mobile SIGINT system remained under military control, thus answering one of the biggest questions which had arisen from the Nixon Letter. But in NSA's favor, NSCID 6 resolved the EW issue by placing it under NSA control. And on the administrative front, NSCID 6 gave the director authority over tasking,logistics, research and development, security, and career management of personnel.'?'
+(U) Following Laird's decision on December 23, Gayler created a ~ries of internal . panels to flesh out the CSS plan. Progress was uneven because no one seemed to agree what it should be or how it should function. Gayler gave the task of managing the disputatious committees to Paul Neff, a World War II cryptologic veteran who had held. key positions in NSA's policy councils for many years. Neffs most vital assistants were M~or General John Morrison for operations and Frank Austin for training. Much of the action fell into their bailiwicks.l~ .
+(U) Under severe time constraints (the plan was due to Laird by February I), the committees solved the easy problems and left the tough ones for later. The new cryptologic system would be unitary, with centralized control and decentralized execution (hardly a .new or controversial concept). It would be composed of NSA and the SCAs as they then existed, thus putting' off the question of the system acquiring assets then controlled by the JCS and CIA. The SCAs would provide men, equipment, and facilities ., CSS would operate the system.
+(U) CSS would be headed by DIRNSA in a dual-hat role, and it would be assisted by a staff of its own. Composed of some 205 billets (75 from operations), it looked just like the NSA staff (see Table 7). All the staff heads were dual-hatted with their respective NSA jobs - thus John Morrison was both head of NSA production:and chief of CSS operations, while Frank Austin headed NSA's training school and CSS's training organization. to!
+(U) The CSS plan produced serious fissures between Gayler and the SCA commanders, who viewed the new organization as the the death knell ofthe independent SCAs. So they /
+fought back, and the struggle spilled over into almost every aspect of cryptologic crganizatlon. They fought the training plan because the role of training and equipping servicemen forcryptologic duty had always been central to their being. They fought NSA's encroachment into R&D and logistics in direct proportion to the size of their respective staffs in those functions.1M
+H/.~T~LI51,<1••• 'MUSH'!' KEYUebS DeMIH'F DemReh SYsrEMBJeINThY
+61 fOP SECRET YMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+Withheld from public releas
+I
+OIRtCTOR. W$It e
+f":UIl:r.~css I Pub. L. 86-36.
+I
+r ~~'Rl I D£e,CnH
+I
+I
+h'.OM.' ~ll I
+•.e•"',•••• tn ••• uedClnsl
+"1 lA4~~\C.. I,.·..T..... I
+11$··.••.c_-II seteeee I l
+: \ r.,;oRIMI t ( a,. •.••Ion. t , IAql1uca IH Plel'U\tn,
+. M"'.'I!_ftt _""ie_UCW\s "~chnt\IXJV
+en 1r=~:'1
+... I I
+I, ,
+/ .....«.'"lle ....... I l . I l
+n"••'••• ] [ SlCINT I j H.l~'" I I U•.i.N.".J
+U.$.A'MY $.0·"'11' ! r U.S.41r
+De ••••1DPfMftl SeeWII't ProduCtion C,yptol0911: A".ftCy Sec"IUy Gtoyp S~wrUy
+. _ SchOol. Co...anct .s.twlce
+rwo·l
+1
+., AAU atP$ I· 1 I
+[
+1 tJ£U)
+ACTIYlncs
+\
+"
+
+
+ DOClD: 523696 REF lD:A523696
+lOP $iCR.ET UMBM .
+(FOUO) A struggle ensued over cryptologic organization in the theaters. Gayler wanted SCA theater offices to collocate with the senior NSA/CSS headquarters, but eventually agreed that they could collocate instead with the component command headquarters. The senior SCA commander would be responsible for the SCA and CSS functions, and most of his people would do the same. Gayler also wanted component command level esGs to be NSA elements, and went toe to toe with Major General Carl Stapleton of USAFSS over this issue. Stapleton won, and all component command CSGs became part of their parent SCA. The chief was the senior SCA (U)~r General Carl Stapleton
+representative in the theater.105
+(U) They enlisted U&S commanders to defend their interests. Admiral McCain, CINCPAC (which would soon become Admiral Gayler's own command), predicted the beginning of the end of responsive SIGINT support:
+In summary, tne proposed plan is viewed as placing in concrete the sterile, innerently unresponsive centralization philosophy to which field commanders have so long been opposed. The centraliution of SIGINT haa not been tested in a major conflict. The concentration of analytical functions at !.he national level will soon C8UM a decline in the ability of !.he uniformed cryptoJogic activities to function responsibly in a support role in combat operations especially when access to !l national database is denied and integration with other intelligenCe data is vital. The proposal is a lorig step backward in the Armed Services quest for more responsive intelligence .... 108 .
+...(€1 The most contentious issues related to resources, and it was here that NSA had eyes bigger than its stomach. In the first heady days ofCSS planning, many in the Agency envisioned swallowing every SIGINT collection asset worldwide, the theater ELINT centers, and even scientifie and technical centers like the ,Air Force's Foreign Technology Division.
+ffiTln April of 1972, Admiral Gayler convened a panel (which he himself chaired) to survey the field. The most cursory study revealed a very wide field indeed. For instance, NSA discovered that at least forty-three submarines had EUNT collection gear, as did all Navy surface combatants. The list of CIA sites was very long, and the theater ELINT centers were very well-entrenched tactical assets .
+.~When the smoke cleared from the battlefield, NSA had won operational control over some of the assets under contention, most notably Air Force SIGINT platforms doing national jobs. But theater EUNT centers remained under theater control; programs designed for purely tactical jobs stayed with their parent services; the Navy held onto its
+i
+HANDLE VIA TALENT KEYHOLE COMINT CONTROL SYSTEMS JOINTL Y
+63 TOP SECRET UMBRA
+
+
+ DOClD: 523696 REF lD:~523696
+TOP 5&CRIiT UM8RA
+entire fleet of airborne SIGlNTreconnaissance aircraft; and the Army kept its electronic . warfare companies. CIA assets were not even filtered into the mix, and NSA's relationship with Langley remained on hold.!" When confronted with determined service opposition, Gayler had elected to smooth the waters.
+(U) One of the key aspects of the CSS reorganization was to collocate the headquarters at Fort Meade, and a new DIRNSA, General Samuel Phillips, began looking at this in the fall of 1972. The move was superficially attractive because of the money that could be saved, and it would certainly permit further dual-hattingofSCA and NSA staffs. The idea did not begin to burn itself out until a study group quantified the amount of space needed: 550,000 square feet, to be exact.at a cost of $30 million. NSA, chronically short of space, was busy expanding into the Baltimore suburbs and could offer no space to the SCEs. It might be possible to get some office space on Fort Meade from 1st Army, but it was still inadequate, even if it could have been converted into cryptologic work space (a very doubtful proposition indeed). So the idea was virtually dead anyway when Major General Stapleton confronted Phillips with the most determined opposition that any aspect of CSS .had faced. It was obvious that the Air Force would never agree, and the plan was dropped.lo~ As Phillips later said, rather laconically, in a message to the theater cryptologic chiefs, n••• there is specific and determined opposition by the SCA chiefs to such collocation. It is the expressed view of the SCA chiefs that proximity to their service headquarters is more important than collocation with NSA/CSS." 109 . It was the understatement of the year.
+(U) At the Defense Department, Dr. Albert Hall told his chief of resources management,. Lieutenant General Phillip Davidson, to keep watch over the implementation of CSS. By January of 1973, Davidson's watchdog, Robert E. "Red" Morrison, was ready to throw in the towel. Morrison wrote to Hall that the CSS staff concept had not worked. Agency employees had not accepted the dual-hat idea and were . not ready to relinquish their carefully garnered authority. According to Morrison, " ... the 'dual-hat' concept has served mainly as a way to keep the status quo." NSA had never transferred authority over tactical SIGlNT assets to CSS, and field commanders had reciprocated with suspicion and mistrust of the CSS mechanism. CSS had cost NSA over 200 biJ lets and had produced nothing in return.
+(U) At NSA, Sam Phillips had seen enough. Lacking any semblance of DoD support, and unwilling to make the drastic changes in CSS authority that would be necessary to keep the concept functioning, Phillips killed it. The date of death was listed as April 16, 1973. On that date, Phillips eliminated the CSS staff, transferring authority instead to a new deputy director for field management and evaluation (DDF), who also became deputy chief, CSS. He dropped the idea of dual-hatting and instead transferred authority for CSS activities to existing NSA positions, elevating them at the same time to deputy director status. Thus assistant director for production became deputy director for operations, communications security be~ameru]edby a deputy director, and Phillips created the post of deputy director for research and engineering, with authority over boVt NSA and SCA
+HAf4BLfi! 'f fA 'f)\Lfi!N"f ItEYII6LI!l e6MIN'f eerffft6L S'[SftJMS rJ 91H1'LY
+lOP SECRET \;JMBR:A 64
+
+
+ DOCID: 523696 REF ID:A523696
+TOP SECRET I:IMBRA
+research efforts. Other staff chiefs were elevated to assistant directors; all had additional responsibilities for CSS management.?" . .
+(U) In 1976, when a new director, Lew Allen, went looking for CSS, he found only a paper organization. Associated with CSS, his resource people could find only General Allen himself (he was named on paper as chiefofCSS); the DDF incumbent, who served as the deputy CSS; and a military stafToffewer than ten people.111
+(U) The CSS exercise benefited the cryptologic system by further centralizing such functions as research and development, personnel administration, and certain aspects of logistics. In these areas, NSA's staff authority expanded into areas that were of common concern to NSA and the services. The biggest changes were in training, where Frank Austin, the dynamic leader of the National Cryptologic School, presided over a long-term centralization of training functions, and a rationalization of the system to the point where the individual SCAs served as executive agents to separate aspects of a:now-joint training system. And, though the meetings were often stormy, the SCA chiefs were brought into closer contact with Gayler and his staff. Gayler institutionalized this ,into Wednesday morning breakfasts with his SCA chiefs, and thus brought a more direct and personal atmosphere into what had been a remote and long-distance relationship.i'"
+(U) So in certain respects, the addition of "CSS" to the NSA logo marked a permanent change in the way business was done. But the larger changes that had been so keenly anticipated in the fall of 1971 would have required steamroller tactics worthy of Brownell at his best. The JCS had been bested by Brownell in 1952 because he had the backing of the president. Twenty years later the president was not engaged, and the JCS won.1l3
+(U) The Murphy Commission
+(U) The period following the Vietnam War was extraordinarily fruitful with reorganization studies. Those which touched cryptology bent the process in a new . direction. One such was the Murphy Commission.
+(U) The Murphy Commission was set up.by Congress rather than by the president. Its main purpose was to examine the process by which American foreign policy was set. The chairman, former ambassador Robert D. Murphy (then chairman of Corning Glass), was to report back to Congress.by June 1975. Murphy was looking at foreign policy at a time when Henry Kissinger occupied positions as both secretary of state and national security advisor, and perhaps this was the reason that Murphy concentrated on national security and intelligence issues.' Of the four subcommittees, the one on national security and intelligence, chaired by Murphy himself. dealt with NSA.
+(U) It was hardly surprising that Murphy should echo the climate of the times. Following Schlesinger (and a host of others before him), he recommended splitting the job of DCI into two people - the political advisor to the president should work.downtown, while the administrator of CIA. who would be his deputy, would manage the agency itself. He advocated giving the DCI further=control over the intelligence budget (meaning, in
+,
+HANBL! VIA T1lu!J'(T KE I lieu CeMfN'f Ceff'f'ftt)LSYS'ftlMS JeUft'b Y
+65 ToP SECRET tJMBRA
+
+
+ '
+DOCID:
+Withheld from public release Pub. L. 86-36
+523696 REF ID :A52·3696
+TOP SECRET l:JMBRA
+essence, authority over the Defense component thereof). And he predictably proclaimed that the secretary of state and national security advisor roles should never again reside in the same person.
+(U) As for NSA, Murphy remarked rather quizzically that NSA was the only national cryptologic agency in the West that reported through the defense rather than the foreign affairs institution. This tended to bias the satisfaction of requirements in favor of military needs. But, having examined the pros and cons of that arrangement, Murphy opted to leave cryptology within Defense. He recommended, however, that the Agency report to an executive committee composed of the DCI and the assistant secretary of defense for intelligence; to broaden its responsiveness. Moreover, he favored changing the rule by which the director be strictly a military officer. The rule, he felt, .should be the same as at CIA - civilian or military did not matter as long as the director and his or her deputy were not both military officers.
+(U) The key thrust of the Murphy report, however, was in the direction of further centralization of the process. The SCAs should be abolished, and NSA should take on the job of cryptology unhindered and unassisted. This would at once simplify the process and eliminate the bickering that had characterized NSA-SCA relationships since the day NSA was established ,114
+(U) The Hermann Study
+(U) In the long run, the most influential study was one that was not even completed, let alone published and promulgated. In 1975 Dr. Robert Hermann askedLew Allen for the opportunity to study SIGlNT support to military commanders. Hermann formed a committee ofjust three people: himself,l land William Black. Together, they formulated an elegant and timeless statement of the problem that confronted cryptologic organiza tion.
+(U) To Hermann, the central dilemma emanated from the abortive establishment of CSS. NSA had been given theoretical control of the complete cryptologic process by which military commanders obtained cryptelogic support, but the enforcement. mechanism had never been implemented.
+The most recent NSCID-6 ... provided for very broad NSA responBibilities and authorities well beyond present practices .•. , the 1971 Presidential Memorandum from which the directive was written specifically includes 'tactical intelligence' within the scope of the national level responsibility. However. the Pre,idclllial memorolldum and NSCID-6 are not btinB enforud alld are probably not enforuable. • .. The political forces which generated NSCID-6 did not develop the near term enforcement means necessary to persuade an unwilling management structure. , .• This has been a major cause of stagnation in the development of adequate SlGINT support to military operations aBwell &Binhibiting the general develOpment of SIGINT support for other purposes ..... (Emphasis added] us
+(FOUO) Hermann pointed to a, cascade of changes to the SIGINT system which had irreversibly altered the way business was done. He referred to an "electronic explosion" in
+HAN'f)LEVIA TAU!N'f Kf'itf6U! ceMINT CeNTRaL S'lSft)MSd6IN'fLY
+lOP SECRET UMBRA 66
+
+
+ DOCID: 523696 REF ID:A523696
+TOP S!CRET l:JM8RA
+the signals environment which tactical commanders were increasingly occupied with and were exploiting to their own advantage. Electronic warfare, electronic support measures, and other terms were. being applied to signals in order to get them out from behind the codewords that restrained their dissemination and exploitation. According to Hermann, "The notion that all 'SIGINT'activity is naturally a part of a coherent SIGINTsystem organized separately to support all national interests and organizations at every echelon is probably unsound. SIGINTis clearly not the most natural primary management dimension for an increasing number of activities." While NSA held to the rigid codeword protection mechanisms that had been built up since 1952, these barriers were becoming increasingly anachronistic. The SCAs, confronted with a two-way tug on their loyalties, increasingly opted for allegiance to their own services. They no longer. hungered to expand the large field site system, no longer viewed their future as lying within a national cryptologic structure. According to the.study, "... the traditional role oftheSCA as the field collection arm of the national SIGINTsystem is eroding and is even now, not a viable mission."
+(FOUO) To solve the dilemma, Hermann recommended a revolutionary strategy. The SCAs should cease being cryptologic agencies and should become what he called Service Signal Wanare Agencies (SSWAs). They should be integrated with the commands they supported, and their main job would be to provide signal warfare functions such as ECM, ECCM, tactical SIGINT/electronicsupport measures, MIJI (meaconing, intrusion, jamming, or interference), and radar surveillance. Except in unusual cases, they would no longer. staff large fixed sites .
+..(8J The existing classification system should be completely scrapped. According to Hermann, "... we now provide SI, TK, or EARPOP protection for sources that we no longer hold to be sufficiently sensitive to require these caveats. The reason for protection is , historical not deliberate." Cryptologists had cast aside the fine gradations which had , evolved during World War II to permit wider dissemination of less-sensitive SIGlNTand more restrictive handling of the products of cryptanalysis. In effect, everything was handled at a minimum Category II level, and the advantages of the World War II Y Service system had been lost. He pointed. to the handling of clear text speech intercept (then normally protected as Category II material) as an example of how not to protect
+information. Other sources, I Iwere scarcely more sensitive. Signals externals should not be held in COMINTchannels unless clear justification was provided.
+~ I.C
+0s I
+~~ ~
+~ ~ I. IC -(STEven more radical was his proposal for the handling ofTK information. According
+"0 QO to the study, "There is very little justification today for providing SI access without TK.
+~
+~ .l.~.j There is no justification for providing TK SIClNTaccess without Byeman access." (The
+....cc ::c..c Byeman compartment was created to protect technical and contractual details of overhead
+systems.)
+~ Q=.~= The study proposed that overhead SIGINTshould be completely removed from the
+TK compartment and should be handled as ordinary SIGINTinformation and that Byeman .should be eliminated except as it related to the relationship with contractors.
+1S=CC6t Hermann recommended new initiatives for SIGINTsupport to NATO, long a cryptologic planning backwater. I I
+nANB~ VIA 'fAbSft'f 1{l!1YIlOb6 00 MUff OON'fML S1S'fl!1MSotOIN'FLY
+67 'fl)P SEetEf l:JM8R:A
+
+
+ ..
+DOClD 523696 REF lD:A523696 Withheld from
+TOP S!CR!'f UMBRA public release
+E.O. 13526, section 1.4(c) I ; Pub. L. 86-36
+Withheld from public release Pub.L. 86-36
+II:Mu)LE ';fA 'f1d;EN'f JEEYIIOLE COMlK'f COU'fR01:; SYS'fEMS 49IN'fI:;Y
+TOP SECRET UMISItA 68
+
+
+ DOCID: 523696 REF ID:A523696
+'FeP SECRET UMBRA
+(U) The Ursano Study
+(U) Robert Hermann's thinking dovetailed nicely with the direction that the Army was moving. That direction came out in very stark terms in 1975 as a result of the Intelligence Organization and Stationing Study (lOSS).
+(U) lOSS resulted from a memo from the secretary of the army, Howard Callaway, to
+Army chief of stair Frederick Weyand in late 1974. Commenting about Army intelligence, Calla way said, "We maintain considerable information which is of questionable value and .seldom used," a fact that "really makes me wonder about how much money we are wasting and raises serious questions as to the cost-effectiveness of our intelligence system." What was on Callaway'S mind was apparently money. The Army was continuing to take monstrous post-Vietnam cuts, and Callaway was looking at intelligence as a place to save money. 117
+(U) The man Weyand appointed to study the issue, Major General James J. Ursano, was unencumbered by any experience with; or knowledge of, the intelligence function. At· the time, he was Weyand's director for management. His study group was not very high powered, nor did it contain much expertise in the discipline.l18 It was a completely outsider's look.
+(U) Mlijor General James J. Ursano
+UANBbB 'IIA '£ALEUT KEYHOLE eOMHff eO?ffROb S"lS'ftlMS ofOlN'ftl"
+69 TOP SECRET tsMISRA
+
+
+ DOClD: 523696 REF lD:A523696
+TOP SECRET UMBRA
+(U) It did not take long for the Ursa no group to find out how fragmented and overlapping Army intelligence really was. Intelligence production was being carried out
+by a vast welter of rival organizations with competing agendas. The Army expended much
+I.
+effort toward HUMINTand comparatively little on SIGlNT, which was found to be isolated and neglected. ASA came under severe criticism. Since the creation of CSS, ASA amounted only to another bureaucratic layer. The elimination of its field headquarters in both the Pacific and Europe gave it an unmanageable span of control. It devoted too much of its, effort to field station operations, too little to tactical support. It had monopolized electronic warfare and held everything under a cloak of secrecy which inhibited real tactical support. In the field, the Army G2 had to manage two separate intelligence systems, SIGINT and everything else, and staff.to integrate the two sides was in short supply. us
+(U) Ursano looked at the vertical cryptologic command line which had been instituted following World War II and which had been reinforced with every subsequent study of Army intelligence. For once, someone took the opposite tack. Verticality must end, and ASA must rejoin the Army.·2O
+(U) Ursano'scentral and most important recommendation was to dismantle ASA. A new organization would be created, called INSCOM (Intelligence and Security Command), which would integrate all Army intelligence functions. Combining SIGlNT and HUMINT, Ursano recommended the amalgamation of USAINTA (U.S. Army Intelligence Agency) with strategic SIGINT. INSCOM would continue to manage eight field stations, to supply billets to NSA and other centralized cryptologic activities, and to provide S1GINTsupport to echelons above corps. Tactical assets (corps and be low) would join the supported command echelon.
+(8 CeOt INSCOM would be an interesting mix of SIGINT, HUMINT. and counterintelligence organizations. Joining the new command would be the military
+intelligence groups I I and to this were added groups in
+CONUS (CONUS.MI Group) I I TAREX, which had existed as a SIGINT-related effort since the waning days of World War II, would join the intelligence groups. There would be a unified Intelligence and Threat Analysis Center (ITAC) for all-source analysis. But, in sum, the new organization would be considerably smaller than ASA had been, primarily because of the loss of the tactical units. Training functions would be absorbed by other commands, and the training school at Fort Devens would belong to the Army Intelligence Center and School at Fort Huachuca, Arizona.121
+(U) To virtually no one's surprise, Major General George Godding, the incumbent ASA commander, opposed the dissolution of his agency. Godding's reasoning, however, should have sounded bells somewhere in the Army staff. ASA should be retained because of the unique cryptologic expertise which had been developed and nurtured over a period of
+many years. Ursano's solution ignored -that aspect of the problem.l22 .
+IIldffiLB 'RA 'fAUlN'f fCI'lYllOLrJeOMIN'f eOU'fROL SYS'fI'lMSJOn~'fLY
+TOP SECRET tJMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+TOP SECRET !:IMBRA
+(U) Major General George Godding
+(U) The proposals caught NSA seemingly by surprise. When routed for comments, the Ursano proposals elicited little reaction. Each staff element viewed the problem from its own very narrow perspective, and each concluded that the matter was an Army problem, not one which should interest NSA. At the Directorate level, Norman Boardman of the
+director's policy staff understood the implications: "It is our general feeling that the
+.I
+loading of all army intelligence, security, and EW functions onto ASA, with a new name, and the stripping of specialized support functions ... can do nothing but downgrade the quality and timeliness of SIGINT support to the army and army tactical commanders .... " 123 But NSA did not take a hard line, and its response to the Ursanoproposals was less than warlike. And 80 INSCOMofficially came into existence on January 1,1977, without NSA having taken a strong stand one way or the other.
+(SaCCO) When Vice Admiral Bobby Inman became director in July of 1977, he hit the roof. Noting that the CSS concept assumed central control of cryptologic assets, and that ASA was the organization that was to control the Army's component to that structure, he pointed out acerbically that divestiture of cryptologic assets at corps and below abrogated that agreement and fragmented the system. Moreover, cryptologic training, considered an
+IIANBbIS VIA 'fAbEN'i' KEYliObB OOMUrr OQNTReb S¥STEM8~OU>fTL¥ .
+71 TOP SECRET !:IMBRA
+.L __
+
+
+ DOClD: 523696 REF lD:A523696,
+lap SECRET UMBRA
+essential aspect of ,maintaining a skilled cryptologic work force, had been removed from INSCOM's authority. TAREX, formerly an exclusive cryp~logic preserve, now appeared to be a SIGINT-HuMINT amalgam. "Throughout the plan SIGINT operational relationships and functions are described that impact directly on NSAlCSS. ,These relationships and functions have not been coordinated with this Agency." 124 In fact, they had been coordinated - hut with Lew Allen, not with Inman. And that train was much too far down the track for one angry admiral to turn it around.
+(U) The central problem of the INSCOM decision was one of expertise. The Army no longer had a unique cryptologic organization. It had been diluted by other disciplines and other interests. The cryptologic focus was lost and was replaced by a picture gone all dim and mushy. To participate in cryptology, the Army would have had to increase its , emphasis on technical specialization. It chose to go the other direction.
+(U) The Creation of ESC
+.retIn its own way, the Air Force chose the same path, but at a slower rate. The Air . Force Security Service had begun to lose its SIGINT focus in the late 19605. When the Air Foree Special Communications Center (AFSCC) S[GINT mission was moved to NSA in 1968, the organization survived by acquiring a new role. The mission, straight out of Vietnam, was to do electronic warfare analysis of tactical combat. Such analysis involved a variety of analytic skills, of which SIGINT was the largest component and was thus a natural fo!,'USAFSS. AFSCC could employ all the SIGINT and COMSEC skills of a seasoned
+work force in a new role of direct concern to Air Force commanders. \
+(U) As the command shrank in size during the 1970s, the electronic warfare analysis being done in AFSCC grew proportionately larger. Like ASA, USAFSS slowly eased out of the business of providing manpower to large fixed sites. .Security Service sites which ' survived became smaller, and the command began shedding its management of air bases ,
+E
+Q.j ~
+e '" M around the world. In 1978.,USAFSS gave away its l~t remaining bases to other Air Force
+t!:: eo= I
+'* ~ commands: Goodfellow AFB went to Air Training Command.] I IrakIion,
+~~ ,
+~ (.J.j and Chicksands were turned over to USAFE, and PACAF began managing I I With
+-= .
+of :E..c its intermediate headquarters in Germany and Hawaii closed,the command ended the
+~ 6. d: decade with just under 12,000 people, down from a peak size of over 28,000.125
+...(.GfGeneral Lew Allen, who had become Air Force chief of staff, was intensely unhappy with the Air Foree approach to, and use of, electronic warfare. His experience as DIRNSA had taught him how SIGINT could affect the modern battlefield. He had an especially keen appreciation for TEABALL, the command and control facility that had operated so effectively in Southeast Asia based on SIGINT support, and he wanted the new organization to create other such mechanisms. So he formed a high-level steering group to look at the problem.P"
+(U) In April of 1978 the Air Force announced that it would disestablish Security Service and consolidate intelligence functions within a new intelligence center at.Kelly Air Force Base. This would involve USAFSS, the Foreign Technology Division at Wright
+ItM\'Bhtl 'ItA 'fAbEllff KEY! !6b:e C6MIN'f C6!ffR6b S'lB't'ElMe 461N'fb Y
+TOPSECItI!T tJMBItA 72
+
+
+ DOCID: 523696 REF ID:A523696
+. TOP SECRET UMBRA
+Patterson Air Force Base in Ohio, AFTAC(which monitored nuclear testing around the world), and Air Force Intelligence Service. The concept was clear, but the details were fuzzy; the affected organizations spent the summer thrashing out the implementation.P"
+(U) The grand Air Force Intelligence Center study became subsumed under two other high priority Air Force concerns: how to organize electronic warfare and what to do with a growing respcnsibil itycalled C3CM (command, control, and communications countermeasures). All three functions were closely related, and Allen wanted an . organization that combined all three. As it happened, USAFSS had the majority role in intelligence and C3CM and was a major player in electronic warfare. So whatever happened would surely center on the USAFSS complex at Kelly AFB.
+(U) In January of 1979 a .general officers board recommended to Allen that, not surprisingly, a new electronic warfare command be created, and that it be composed of all three . USAFSS missions. Like ASA,. USAFSS would continue as a major command. Unlike ASA, however, it would not swallow the other intelligence disciplines, at least not yet. USAFSS reopened its doors in August of 1979 under a new name, Electronic Security Command. Its commander, Major General Doyle Larson, was known to be a Lew Alien confidant. When
+he appointed Larson, Allen told
+hi I INSCOM b (U) MlUor General Doyle Larson
+im not to emu ate r ut to in/ure that all elements of electronic combat were integrated into a single structure .. Together, they were moving the Air Force away from a major role in cryptology, toward a closer tie with Air Force tactical combat. 121
+tb\oNf)LE VIA T*LENT KE'iH6LE OOMJoNTeON'f'IteL S'tS'fI!lMS d6IN'fL¥
+73 TOl' SECRET \:IMBRA
+
+
+ DOCID: 523696 REF ID ::A523696
+lOP SECRET UMBRA
+Notes
+1. (U) Deputy Director eDDIR), NSA, corrupondenc;e files, NSA retired recorda, 96026, box I, part 2, OVerview of Soviet Cryptology.
+2. (U) NSA,Q_,*rly MOfl46errulll Report (QMR),FY 1980, 2nd Quarter.
+3 eU) RobertJ. Hanyok, -Scaling Down NSA,· NSA New,utur,JanUArY 1995.
+4. (U)QMR,9312,5.
+5. (U) QMR, SOIL
+6. (U)CCHSeriea VII.H.61.2.
+7. (U) Interview, General (USAF. Ret.) lAw Allen, 17 June 1996. by Tom Jolmaon, OH 7,9·98, NSA.
+8. (V) CCH Seri88 XJJ.H.19.
+9. (U) Interview William T. Kvetku, 10117July, 17 Aut: 1996. by TolX'Johnaon .• OH 25:96. NSA ..
+10. (U) CCH SeriesXU.H.19.
+11. (U) eCH Series XU.H.lt; NSA An:hiveaacc 111' 27210, CBOK 68.
+Withheld from
+public release 12·1'--- _
+Pub. L. 86-36 13. (U) NSA retired reeorda, 44699, 84-228.
+14. (U)lnterview. Colonel Cecil B. Fulford, 23 November 1987. by Robert D. Farley and Tom Johnson, OH 30·87.
+NSA.· .
+15. (V) NSA retired recorda 44669, 84.228; NsA Archives ace Dr 27263~ CaUB 11.
+16. (V) Fullford interview; NSA rewed r~rda 44669, 84-228.
+17. (U) Ibici.
+r--------------I
+19. IV) NSA retired recorda 10017.83.473; 44669, 84-228."--_~·..:.A:.:H=iatorical Overview," r:-::WCC'i t-:-h:-he-:-Id:-r:-ro-m
+20. (U) Mary Anne Weaver. "B~the Martyrs,· Nelli YorUr (January 1993). public release
+Pub. L. 86·36
+21. (u) NSA retired r8c:0I'ds, 44670,77.397.
+22. (U) Ibid.
+~ ~r---------~
+24. (U) NSA retired recorda, 44760. 74-296; Allen interview; Williams interview.
+<,
+25. (V) NSA'retired records, 28515. 8'-245.
+26. (V) National Security Filet, Gerald R. Ford. Pretidential Library, AnD Arbor, Miebig&Jl, in CCH Series
+XVI.H., ·Southeut AsialVietnamICambodia"; CCH Sene. VI.HH.26.15.
+r--------------,
+Withheld from 2'1. LI ---'
+public release 28. (U)[nterviewl l23 December 1992, by Charlee Baker and Tom Johoaoll., OH 8·92. NSA.
+Pub. L. 86-36 '--------,--I
+TOP SECRET UMBRA 74
+
+
+ DOClD: 523696 REF lD:A523696
+Withheld from lOP SECRET UMBRA
+public release
+. Pub. L. 86-36 29. (Uc==Jinterview.
+[=!~------------------------------------------------------------,
+31. (U) CCH Series vn.Q.1.l5:! I-A Chronology. of Significant Events in the History of Electronic Security Command, 1948·1988. command history available in CCH Series X.J.
+32.
+33. (U)c:=Jetal .• "A Chronology."
+34. (U) -A History of the USAFSS Airborne SIGJN'l' Reconnaissance Program (ASRP). 1950.1977; 20 ..
+September 1977. available in CCH Series X.J; Interview, Gordon W. Sommers. byl Iand Jmes E. Pierson, JanWlry 1990. available at Air Intelligence Agency. San Antonio. Texas;c=J et al., "A Chronology."
+35. (U) NSAArc:hives.acc: nr 33631. H01·0108·3. ~-------------
+Withheld from 36. (UHbid. public release
+37. (U)Ibid. Pub. L. 86-36
+38. (U) Ibid.
+39. (U) Nolte. William M.• Project Te1U1i6: A Hi6to.., of SatelliU RemDUng.196B.1911 (Fort Meade: NSA, 1977).
+40.. (V) Nolte. Proj"t Ten"i6. CCH Series VI.BB.l.6.
+41. (U) Nolte,Project Ttnnu.
+~
+42. (U) Interview. Dr. RobertJ. Hermann, 2 September 1994. by. Tom Johnson, OH 45·94, NSA.
+43. (V) Nolte. Project Te",u".
+'4. (U)Ibid ..
+45". (U) NSA Archives. aee or 31614. HO·1·0308·5.
+~. (U) Nolte. Project Tennu.
+4.,. (U) NSA Archives, ace Dr 31614. HOl·0308·5.
+48. (V) Drawstring Task Force Report, 10 December 1973: in CCH Series VI.BB.1.4
+49. (U) NSA Arcbives ace nr 32545. H01·0101·2.
+50. (U)lbid.
+51. (U) Drawstring Task Force RepOrt.
+52. (U)lbid.
+53. (Ullbid.
+54. (U) NSA retired recorda, 44959. 80-302.
+55. (U)(bid.
+56. (V) Nolte. Project Ttnni6.
+57. (U)Ibid.
+58. (U)lbid.
+\ IIkNa~ 'ItA TaLENTIt! J HOLECOMIN;r CONtROL sVSl'EMSJOINTLY
+75 TOP SE(:RET UMBRA
+
+
+ ~-C-J- DOClD: 523696 REF lD:A523696
+""-':-c-- TO' SECRET UMBRA
+.9 SQ.l\O
+(:j O"'t'"l
+Q.l ~~~
+~ell '_O~.Q.()..r---- " 59. ~ Nolte,Projeet TtllnU; Int.rviewl 1
+M Q.lCJ...J
+I£l :2 = . ?J I
+t'"l -,Q,Q
+
+.- = =
+0 ~ c. Q., 60. (U~ 1interview.
+r.;.l p:J \
+I
+
+Withheld from
+public release 62. (U) Nolte,ProjecC TeJ1Ilis;NSA Archivesace Dr 18141. HOI-0505-5;NSA retired records. 44959. 80·302. The
+Pub. L. 86-36 40 Commi~t.e ruled on all covert int.lligence progralll8 for the White House.
+63'~1 ~
+64. (U) Nolte. PrqjecCT8nni..
+65.
+,-----------, 06.
+67. (U) NSA Arehivea. ace IIr 12163. G12·0601.3.
+68. (V) Interview~'-- ...J119February i997, by Tom Johnson; Files in possesSion of
+'----------' Mr.c::::::J I .
+69. ML.. ...JI interview.
+70. (u) NSA retired recorda. 44969.80·302.
+71. (U)lbid. Withheld from
+72.1 I 352 section .4(c)
+73. (Ue=J E.O. 1 6, 1 public release
+C
+8t al., "A Chronology"; NSA"retired records. 44959. 8O·30Z. Pub. L. 86-36
+74. (U) NSA Archives. ace nr 39074. H02·0l03·5.
+. 6_-3_6---"
+------ 1
+76. (U) NSA retired records. ---
+44969. 80-302; N-SA-"ArehiVes,
+--~3WOZ. HOoI·OI09·6; llIterview.I 1 by Tom~ohnaon,19February 1997.0H 4·97.
+77. (u) NSA retired records 44959. 80·302.
+78. (u)NSA Archives ace nr 18802,CBnI 77; Interview, RichardL. Bernard, byTomJohnaon,4June 1996and 13 January 1997. OM 15·94. NSA.
+79. (U)lbid.
+80. (mNSA Archives, ace Dr 4200, CBUO 78; Bernard int.rvi8w.
+81. (U) 1'- ---11 NSA Archives ace nr 18802, CBTM 71; NSA retired records 44959, 80·302.
+82. (U) NSA Archives 22965, HI8-0104·3.
+83. (U) NSA Archives ace nr 16514. CBRG 3S.
+84. (U~L.. ...I•"•Guardrail: A Joint TaCtical SIGINT Support System," Crypfl>lollic Spectru.m, Sprilli 1975, 15-18.
+~. (ID~ ~------ __------------------....•
+"1l1dfflbETffJ\ 'fld:I!lN"f KEYIf6Le e6MfUT ee!ffReb S'E5'!:'flM6 i6INTL¥
+TOP SECRET UMBRA 76
+Withheld from public release Pub. L. 86-36
+Withheld from public release L..-P_U_b_._L_._8_
+Withheld from public release Pub. L. 86-36
+
+
+ DOClD: 52369~------~ REF lD:A523696
+Withheld from
+public release Tep SECRET t;JMBRA Pub. L. 86-36
+Withheld from public release Pub. L. 86-36
+Withheld from. public release Pub. L. 86-36
+87. (U) Fact sneet, undated, NSA Archives.
+88. (U) NSAArchives,ace: nr 16524, CBRG36;ace: ~r 2737,CBUC 73.
+89. (U) CCH Series XI.R;NSA Archives ace: nr 16524, CBRG 37; ace: nr 2737, CBUC 73.
+90. nn NSAArcnivesace: nr 16512, CBM35; ace: nr 16512, CBRG61;acc:nr2897, CBUC 52.
+91. (U) NSA Archives, ace Dr 2737, CBUC 73.
+92. (U) NSA Archives, acc nr 167524, CBRG 36; ace: nr 18970, C.BTB 48.
+93. (U) RReport of the BlUe Ribbon Defense Panel [the Fitzhugh Panel report]," 1 July 1970, ill CCH Series VI.C.l.31.
+94. (U) Ibid.
+95. (u) Thomas Powers, The Man Who Kept the Seeret.: Ricluzrd Helm. and the CIA (NJw York: Alfred A.
+Knopf, 1979),207·08. S. D. Breckenridge, T/r.e CIA and the U.s.lraeelligence System (Boulder, CO: Westview PresB,1986),59-61.
+96. (u) Breckenridge, 59-61.
+97. (U) Interview, Donald M. Showers (&ADM, USN, Ret.), by 1....1 JL 5 May 1992; Breckenridge, 61.
+98. (U) The Creation of Central Security Service - Background papers and memo files, in CCH Series Vl.QQ.l.11.5.
+99. (U) Ibid.
+100. (U) Ibid.
+101. (U) Ibid.
+102. (U) Interview, John R. Harney, by Robert D. Farley and TOlD Johnson, 17 December 1987, Oral History 3287,NSA.
+103. (U) The Creation ofCeiltral Security Service •.•.
+104. (U) Interview, Carl W. Stapleton (Maj Gen, USAF, Ret.), by Lt Col William H. Buchholtz, unit date.in 1986, USAFSS interview available at AlA, Kelly AFB, San Antonio.
+105_ (U) The Craation of Central Security Service .... ; Stapleton interview.
+106. (U) The Creation of Central Security Service ...•
+107. (U) Ibid.
+108. (U) CCH Series VIII.H.<I8; The Creation of Central Security Service •••• ; Interview, GordO.riW. Sommers, by
+I land James E. Pierson, Jsnuary 1990, available at AlA, Kelly AFB, Texaa.
+109. (U) DlRNSA msg 10 Nov 1972 ill CCH Series XII.H.48.
+110. (U) CCH Series XII.H.48. .
+111. (U)[bid.
+112. (U) Har~ey interview; CCH Series XII.H.48; Stapleton interview.
+H,".NI>Y 'RA T.\taENT KEYI[9b!ij C9MINT C9N'FR9L SY-5T5MSd9INTLY
+'77 TOP SECRET t;JMBRA
+
+
+ DOClD: 523696 REF lD:A523696
+TO' SECRET UMBRA
+113. {U}The DlRNSA. VADM Noel Gayler. was also hoping for a fourth star, and was loathe to jeopardiz~ advancement by seriously tangling with his potential benefactors. according to Major General Carl Stapleton; See Stapleton interview.
+114. (U) Murphy Commission Report, Committee II -Intelligence. in CCH Series V1.C.1.23; Ray S. Cline. TIu! CTA U1Id6r ReagAn, BlU4 and CQ.8ey (Washington. D.C.: Acropolis Books,1981). 261·62.
+11S. (U) "SIGINT Support to Military Operations" [the Hermann Study], 28 April 1975. in NSA records center 28792. SO·O'l9:
+116. (U) Hermann study; Interview. RobertJ. Hermann.by Tom Johnson and Charles Baker. 2 September 1994. OH 45-94. NSA; Tencap information is from Angelo. CodevilIa, lrzforming Sta~craft: In~lligcnce for a New CentlU)' (New York: The Free Press. 1992}.118·19.
+117. (u) CCH Series XII.H.S7.2; Callaway quote is from draft .chapter 10 of a forthcoming history of Army intelligence. a joint Center for Military History-INSCOM project.
+118. (U) CCH Series XII.H.57.2.
+119. (U) Jack Finnegan. "lOSS And After" unpublished manuscript in HQ INSCOM files. 1987.
+120. (U) Orai'\.Army hiatory.
+121. (U) Finnegan. "IOSSAnd After."
+122. (U) CCH Series XIl.H.57.2
+123. (U) Ibid.
+124. (U>Ibid.
+125. CU) "History of the Electronic Security Command, I January - 31 December 1979." available at AlA. KeUy AFB. Texas. Holu.b,et al., "A Chronology of Significant Events .... "
+126. (U) "History ofthe Electronic Security Command, i January·31 December 197.9."
+127. (U) Sommers interview.. "History of the Electronic Security Command, 1 January-31 December 1979." Interview. Doyle Larson (Maj Gen, USAF. Ret). by TomJobnson. OH IS·97,NSA.
+/
+TOP SECRET U~BRA 78
+----- -.~ - - ---
+
+
+ DOCID: 523696 REF ID:A523696
+lOP SECRET UMBRA
+(U)Chapter 16
+Cryptology and the Watergate Era
+;>
+(U) BACKGROUND TO SCANDAL
+(U) The greatest political scandal in American history originated with an obscure note in the Metro section of the Washington Post on Sunday, June 18, 1972. In it, two Metro> section reporters, Bob Woodward and Carl Bernstein, covered what appeared to be an amateurish break-in at the Democratic National Headquarters in the Watergate Hotel in downtown Washington.
+(U) The Nixon administration managed to cover over the political effects of the break-in until after the elections in November. But when Congress returned in January, it was ready to investigate. In February 1973, the Senate voted to establish a Select Committee, commonly referred to as the Ervin Committee after Senator Sam Ervin, Democratic senator from North Carolina, to hold hearings. At the time, no one associated with the committee knew where they would get > information, since the administration was keeping a tight lip, and> the > Watergate burglarsweren't-talking. But on March 23, one of the burglars, James McCord, turned state's evidence; The federal judg~, John Siriea, had been pressuring the defendants by threatening lengthy prison terms if they did not cooperate. Now McCord was cooperating, and the entire thing began to unravel. The president, concerned with getting on with his second term, tried to shush the (U) President NiKonand his inner circie, 1973> whole thing.
+(U) The scandal, of course, would not shush. Instead, it mushroomed, swallowing first Nixon's White House staff, then much of his cabinet, and finally the president himself. On August 8,1974, Nixon resigned and Gerald Ford moved into the White House.
+>(U) In a real sense, Watergate resulted from Vietnam. President Nixon was obsessed with the disorder and demonstrations that hurled the Johnson administration down and
+!fAN fit!: 'Ii fA TALENT KE i MOt!: eOMmr eo14T1t6L S't'S'fEMSJ6lf(\'i;y
+79 lOP SrCREllJMBRA
+
+
+ DOClD: 523696 REF lD:A523696
+TOP SECRET tJM11tA CRYPTOLOGIC QUARTERLY
+played a large role in the defeat of Hubert Humphrey in 1968. One of the central incidents ofthe disorderly 19605 was Daniel Ellsberg's decision to publish a collection of the Johnson administration's papers on the war, which came to be known as the i'Pentagon Papers. Nixon ordered an investigation of Ellsberg, and two of his White House confidants, Egil "Bud" Krogh and David Young, put together a clandestine unit, which they called the "Plumbers" because the objective was to plugleaks. The group obtained the assistance of White House Special Counsel Charles Colson, who brought in some experts in clandestine surveillance formerly from CIA and FBI, among them Howard Hunt and G. Gordon Liddy. The Plumbersbroke into the office of ElIsberg's psychiatrist, Lewis Fielding. The unit itself was eventually disbanded, but the individuals were retained by the Committee to Re-Elect the President (CREEP), and they eventually bugged the office of Lawrence O'Brien, chairman of the Democratic National Committee, in the Waterga te complex. 1
+~For a time, cryptology was a bystander in this turmoil, but the antiwar demonstrations eventually touched NSA's business. In 1966, Stanford University students picketed Stanford Electronic Laboratories, where Lockheed Missile and Space Corporation (LMSC) was designing the P-ll SIGINT satellite payloads. When students occupied the building, James DeBroekert of LMSC smuggled one of the payloads out of the building, through Moffett Naval Air Station and over to Building 190 where the rest of the Lockheed SIGINT satellite effort resided. This very close call for the cryptologic payload had a happy ending only because the students never really knew what they were . picketing. 2
+-reJNext year disorder hit the Princeton University campus. The radical group Students for a Democratic Society (SDS) discovered the existence en campus of the Communications Research Division of the Institutes for Defense Analyses (IDA/CROl, which had been set up in the late 1950s to help NSA with difficult cryptanalytic problems. Unclassified CRD publications appeared to link the organization with the Defense Department, andSDS set out to force a campus eviction. After several months of sporadic demonstrations, on May 4, 1970, students broke through police lines and vandalized the inside of the building. A few days later a student was arrested as he attempted to set the .building on fire. CRD built an eight-foot-high fence around the building and occupied it in a permanent siege mode. But the students had already achieved their objective. The atmosphere was no longer good for defense eontractors,.and Princeton asked CRD to move. CRD found other quarters offcampus and moved out in 1975.3
+(U) In June 1971, amid the hysteria over the American invasion of Cambodia, the New York Times began publishing a series of documents relating to the war effort .: The papers had originally been given to journalist Neil Sheehan of the Times by one Daniel Ellsberg, a former defense analyst during the Johnson administration. Two days later a federal judge issued a restraining order, but that did not stop the presses. Ellsberg sent copies to seventeen more newspapers, and the revelations continued. On June 30, the court lifted its restraining order, and the Times published the rest of the batch. Journalists quickly labeled them the Pentagon Papers.
+HANDLE VIA TALENT KEYHOLE COMINT CONTROL SYSTEMS JOINTLY
+TOP SECRET UMBRA 80
+
+
+ DOCID: 523696 REF ID:A523696
+TOP SECRET tJMBItA
+(U) Ells~erg had been hired into the Pentagon as one of Robert McNamara's "whiz kids." In 1967 Ellsberg was assigned to a project under Lawrence Gelb to undertake a study of U.S. involvement in Vietnam. Brilliant and dogmatic, Ellsberg turned against the war. He felt that the documents could be damaging to the war effort, so when he left the Pentagon to take a job with the Rand Corporation, he reproduced a copy and carried it with him.
+(U) It was a very large document indeed - over 7,000 pages - and Ellsberg spent thousands of dollars making copies. For several years he tried to use the papers to convince policy makers (Henry .Kissinger and William Fullbright, among others) to change U.S. policy in Southeast Asia, but in vain. As a last resort, then, in 1971 he turned the documents over to the (U) Daniel Ells berg
+newspapers.4
+(U) Ellsberg claimed that the Pentagon Papers; although officially classified, were actually unclassified. In fact, the last four (of forty-seven) volumes contained COMnirr relating to, diplomatic negotiations with North Vietnam, and it was this information that the government was trying to protect when it applied for a restraining order. Newspapers' did not release the information in 1971, but journalist Jack Anderson got-the last four volumes and released them in 1972. Among the revelations was one concerning the intercept and exploitation of Soviet premier Kosygin's telephone calls while he was in London in February 1967. The intercept apparently came from the British, so from a technical point of view this incident revealed no American cryptologic informaticn,"
+..(Sceer NSA examined the four volumes and found five instances in which COMINT was undoubtedly the source of the information. Ambiguity prevailed in each case, and NSA's policy people bent over backwards to avoid having to charge Ellsworth or Anderson with violation of Section 798 of Title 18. But the director was concerned enough that he sent an emissary, Milton Zaslow (then deputy director for production), on a secret mission to try to convince the New York Times not to publish on the basis of national security. The Times editors viewed NSA as a stalking horse for the Nixon administration and published anyway. "You could," Zaslow said later, "cut the suspicion with a knife." 8
+(U) The Pentagon Papers and subsequent Anderson columns began a trend. The trend was to tell all. It started small, but became a tidal-wave of revelations. That same year, for instance, Anderson revealed that NsA was reading the communications of the South Vietnamese embassy in Washington, through the" ingenious device of providing the·
+IMllDLB VIA 'fl'tbSN''f KSYHOLECOMfN'f COti'fROL S'lS'fEMS iOIN'f'LY .
+81 Tep SECRET l:IMBRA
+
+
+ OOClO: 523696 REF lO:A523696
+feP 5EeRE'f UMIItA CRYPTOLOGIC QUARTERLY
+ciphers which controlled the Vietnamese equipment. Soon after, the Manchester GU4rdian. published an article about CIA COMINT operations in Laos." Then in the fall of 1971, in one of his more sensational columns, Anderson stated that the United States had an intercept operation in the American embassy in Moscow thatndt only intercepted Soviet communications, but was collecting and exploiting the private ear phone communications of Politburo leaders, a
+(U) Anderson, NSA later discovered, had acquired a boxof top secret CIA National Intelligence Digests (NIDs), the unwitting courtesy of an NSC staffer who had been in the habit of taking them home for a little bedtime reading; After a marital falling out, his wife took the accumulated NIDs to Anderson, who kept them in his office and used them in his columns over a period of years. 9
+E.O. 13526, section 1.4(c)(d)
+Withheld from public release Pub. L. 86-36
+Withheld from public release Pub. L. 86-36
+The previous insider-tells-all account, Herbert Yardley's The A~erican Black Chamber, had been written in a fit of greed (Yardley needed money). People like Fellwock could apparently be bought by id~logy. It echoed the climate of the 19305, when the Soviets got their spies for free (or at the very least, for expense money).
+(U) Ideology-based public revelations became fashionable with the publication in 1975 of ex-CIA agent Phillip Agee's Inside the Company - A CIA Diary. Although Agee's aim was CIA's covert operations organization, he knew much about SIGINT, and he revealed what he' knew. He claimed, for instance, that NSA had used close-in techniques to intercept plain text from the UAR embassy in Montevideo, Uruguay. He also claimed that Swiss-built Hagelin machines had vulnerabilities which NSA exploited to obtain plain text. 11
+IfAN5LE ••I•A•: ~UlN'f KE'fH6LE C6MfN''f' 60N'fHOL SYSTEMBJOINT.bY
+lOP SEERET l:JMBRA 82
+
+
+ DOCID: 523696 REF ID:A523696
+lOP SECRiT"MIRA
+(U) Using the indefatigable Fellwock as a key source, the Canadian Broadcasting . Corporation did a 1974.series entitled '''rhe Fifth Estate - the Espionage Establishment," which made a wide-ranging exposure of Intelligence organizations in the United States. and Canada. This series laid out in sharp detail the overall cryptologic cooperative system encompassed within the UKUSA agreements. It was followed up by tag-on magazine articles, including several by British journalist Chapman Pincher regarding SIGINT at GCHQ.:Journalists exposed the role ofthe British intercept site.in Cyprus during the coup in 1974, and GCHQ's efforts to keep the station running during the fighting. That same year a Marvin Kalb biography of Henry Kissinger discussed NSA's exploitation of . Egyptian communications during the Yom Kippur War the previous year. I!
+(U) NSA AND CLANDESTINE ACTIVITIES
+(U) Over the years, cryptologists had participated in two activities whose legality was
+eventually called into question. One, codenamedShamrock, was a way to intercept
+I
+messages without setting up intercept sites. The other, Minaret, became enmeshed with an illegal use of information fordomestic law enforcement.
+(U) Shamrock
+(U) The easiest way to get access to telegrams was to get them from the cable companies which transmitted them. This method actually dated back to World War I, when the federal government, using the implied war powers of the president, set up cable and postal censorship offices. A copy of every cable arriving and departing from the United States was routinely sent to MI-8, which thus had a steady flow of traffic to analyze. After the war, the Army closed all intercept stations. Yardley's Black Chamber continued to use messages provided by the obliging cable companies unti11927, when the Radio Act of 1927 appeared to make this illegal, and the Communications Act of 1934 reinforced this. Lack of traffic forced Friedman's SIS to set up intercept stations in the 1930s.13
+(U) In 1938, the Army's chief signal officer, General Joseph Mauborgne, approached David Sarnofl', president of RCA, with a request from the secretary of war to renew the arrangement whereby the Army received drop copies of cable traffic. Sarnoff was willing, and during the war the major cable companies (RCA, AT&T, and Western Union) once again provided cables to the cryptologists. Signal Intelligence Service set up Radio
+\
+Intelligence Companies to collect cables through censors installed at the cable company offices. Following the surrender of Japan, military officials approached the companies to request their continued cooperation, as they had after World War I. .This time, however, they met considerable resistance. Cable company officials argued that the Federal Communications Act of 1934 appeared to make this illegal In peacetime. They wanted legislation.
+HANDLE y h\ YALE Iff ItE'f116LE eeMUi'i' e9tiTRelo. S¥sti:MIii JQll>l"'tI Y
+83 TOP SECRET !IMBRA
+
+
+ DOCID: 523696 REF ID:A523696
+(
+TQP SECRET UMBRA CRYPTOLOGIC QUARTERLY
+..
+(U) What they got was a promise from the attorney general. Tom Clark, that they would be protected from lawsuits while the Justice Department sought authorizing legislation. (Opinions differ as to whether or not President Truman put this in writing.) But the legislation was not forthcoming, and in 1947 the company executives contacted Secretary of Defense James Forrestal, who had to renew Tom Clark's assurance that they would not be prosecuted, and that the operations would not be exposed. Two years later, sti1llacking legislation, they approached the new secretary of defense, Louis Johnson. He advised them again that Clark and Truman had been consulted, and had 9nce again approved the practice. Somewhat mollified, they finally dropped the subject."
+(U) At NSA the cable drop operation was treated as a compartmented matter, andonly a few employees knew where the traffic came from. Couriers carried cabled messages to NSA, but there was no direct contact with the cable companies themselves. NSA selected about 150,000 cables p~r month for further analysis - the rest were destroyed. Although not technically illegal;Lew Allen, who was director in the mid-1970s, said it did not pass the "smell test" very well. Stopping it was not a difficult decision for him."
+(U) Minaret .
+(U) There is no stark line between "foreign intelligence" and domestic law enforcement. The phrases, which appear to be watertight, actually leak into each other at many points. But this never became an issue until the Watergate period:
+(U) In the collection of foreign intelligence, cryptologists often came across unrelated communications, which were routinely destroyed because of their irrelevance. But when items of importance to the FBI came available, they were normally passed on. This was done without much thought given to the boundaries between foreign intelligence and law enforcement, which were by law tobe kept separate. The practice began in the 1930s and· continued through the war years and into the 1950s.18
+(U) In 1962, following the Cuban Missile Crisis, the Wl,ite House wanted to know who was traveling to Cuba (which had been made illegal but for exceptional cases). This involved passing on American names and violated customary SIGINT rules by which information on American citizens was to be ignored. It was clearly related to law enforeement, however, and it was the origins of the so-called "Watch List" which became known as the Minaret program. 17 .
+..(SCCotThe idea proved to be irresistible. In 1965, as a result of the conclusions of the Warren Commission, the Secret Service asked NSA to be on the lookout for certain people who might be a threat to the president. The (11'stlist was composed almost entirely of Americans, but NSA complied because of the obvious implications of not providing such important information. In 1973 the Agency asked that the Americans bereinoved from .the list and hung onto that position despite anguished protests from the Secret Service." ..
+(U) The Watch List expanded in the 1960s to include people suspected of narcotics .trafficking. and at one point most of the names on the list were individuals suspected of
+HIdJDLEl ViA 'fAf:;EHft' IEEYUOI:J5 eOMIN'P CONTROl. SYSTEMS JGINn,y
+.TOP SECRET UMBIbtt 84
+
+
+ DOClD: 523696 REF lD:A523696
+TOP SECRET UMBRA
+narcotics-related activity. 'I'he list was formally documented by USIB in 1971.l~ But by far" the most controversial expansion of the list occurred in 1967, and it involved domestic terrorism .
+..{S coer In 1967 the country appeared to be going up in flames. Vietnam War protests were becoming common, and "ghetto riots'; inAmerica's urban centers had virtually destroyed sections of Detroit and Los Angeles. President Johnson wanted to know if the domestic antiwar movement was receiving help from abroad, and he commissioned Richard Helms at CIA to find out. CIA came up with very little, but in the process of mobilizing the intelligence 'community, the Army was tasked with monitoring communications for the purpose of answering Johnson's question. On October 20, Major , General William P . Yarborough, the Army chief of staff for intelligence, informed NSA of the effort, in which ASA was involved, and asked for help.2O
+(8 CeO} With FBI as the prime source of names, NSA began expanding the watch list to include domestic terrorist and foreign radical suspects. The watch list eventually contained over 1,600 names and included such personages as columnist Art Buchwald, journalist Tom Wicker, civil rights leaders Martin Luther King and Whitrley Young, the boxer Muhammed Ali, and even politicians such as Frank Church and Howard Baker. Virtually all the names were provided by other government organizations. However, NSA did add thirteen names, all but two of them Agency employees who were acknowledged spies, such as Martin and Mitchell. One of them was the aforementioned Percy Fellwock.21
+..(S cee; The project, which became known officially as Minaret in 1969, employed unusual procedures. NSA distributed reports without the usual serialization. They were designed to look like HUMINT reports rather than SIGINT, and readers could find no originating agency. Years later the NSA lawyer who first looked at the procedural aspects .stated that the people involved seemed to understand that the operation was disreputable' if not outright illegal. 22 .'
+(U) ASA's monitoring of domestic radical communications was almost certainly illegal,according to the legal opinions of two different groups of government lawyers. Even worse, it had come to public notice in 1970 when NBC aired a program alleging that ASA had monitored civilian radios during the Democratic Convention of 1968. ASA quickly closed it down and went out of the civil disturbance monitoring business.f'
+(s ceo)- Minaret was quite another matter, and it did not depend on ASA for its existence. Lew Allen had been director for less than two weeks 'when his chieflawyer, Roy Banner, informed him of Minaret - it was the first the new director had known of the program. Banner noted a recent court decision on wiretaps that might atfect the Watch List. A federal judge had ruled in a case involving leading Weathermen (SDS radical wing) that all federal agencies, including NSA, must disclose any illegal wiretaps of the defendants. NSA's communications monitoring, although not technically a wiretap, could be construed as such by recent court decisions. Although the Weathermen in question might not be on the Watch List, the time was not far off when a court case would expose the list.
+II A NPU VIA 'tA!.ENT KEYHgbE OgMll'lT OmlTlWL 6¥S!FEM6 clOmn. y
+85 lOP SECRET UMBRA
+
+
+ DOClD: 523696 .REF ID:A523696
+'FOP SECAETl:JMIM . CRYPTOLOGIC QUARTERLY
+(5-000) This operation did not pass the "smell test" either. According to Allen, it appeared to be a possible violation of constitutional guarantees. He pro~pt1y wrote to Attorney General Elliot Richardson to request that Richardson himself authorize the retention ofall individuals by name on the list. u' .
+(U) This was in September 1973. The Watergate hearings in Congress had just wrapped up, and the special prosecutor, Archibald Cox, had subpoenaed the presidential tapes. The executive department was in chaos. Richardson's predecessor, Richard Kleindeinst, had been foreed out under pressure, and his predecessor, John Mitchell, was a'lmost sure to go to jail. In that atmosphere, the attorney general was not going to permit the continuation of an operation of such doubtful legality. He requested that NSA stop the operation until he had had a chance to review it. With that, Minaret came to a well- . deserved end. =s
+(U) Oandest/ne Methods
+(U) If you can't break a code, the time-honored method is to steal it. Two of NSA's most cherished secrets, the black bag job and the wiretap, became public knowledge during the Watergate period.
+(U) Black bag jobs referred to the art of breaking, entering, and theft of codes and cipher equipment. The OfTlce of Naval Intelligence (ONn, an unlikely leader in the field, became the first practitioner. In 1922 ONI picked the lock of the safe in the Japanese consulate in New York and filched a Japanese naval code. This theft led to the establishment of the fU'st permanent American naval cryptologic effort, OP-20-G, in 1924.26
+(U) ONI continued to be the main practitioner ofthe art. Prior to World War II the Navy pilfered a diplomatic code .which was used at embassies which lacked a Purple machine. Joseph Mauborgne, the head of the Army Signal Corps, hit the overhead when he found out. Mauborgne reasoned that if the Japanese ever discovered the loss, they might change all their systems, including Purple, and extracted from the Navy an agreement that all such break-ins in the future would be coordinated with the Signal COrps.27
+I E.O. 13526, section 1.4(c)
+Withheld from public release Pub. L. 86-36
+l'()P SECRET l:JMBRA 86
+
+
+ DOClD: 523696 REF lD:A523696
+"F9P SECRET UMBRA
+I E.O. 13526, section 1.4(c) I
+Withheld from public release Pub. L. 86-36
+(U)~. Edgar Hoover
+(U)The Huston Plan
+(U) Richard Nixon had been president just over a year when he initiated a string of. actions which ultimately brought down his presidency. The White House-ordered invasion of Cambodia, a militarily ineffective foray, unleashed a wave of domestic protests, culminating in the shootings at Kent State in May of 1970.. Stung by the reaction, the president called the heads of the intelligence agencies, and on June 5 he told Richard Helms of CIA, J. Edgar Hoover of the FBI. Lieutenant General Donald Bennett of DIA, and Admiral Noel Gayler of NSA that he wanted to know what steps they and their agencies could take to get a better handle on domestic radicalism. According to journalist Theodore White, who later reconstructed the meeting:
+He was dissatisfied with them all ... they were oveZ'8taffed,they weren't. getting the story, they were spending too much money, there was no production, they had to get together. In sum, he waated a thorough coordination ofall American intelligence agencies; he wanted to know what. . the links were between foreign groups 7" al·Patah; the Arab terrorists; the Algerian subsidy center - and domestic street turbu1eace. They would form a committee. J. Edgar Hoover would be the chairman, Tom Huston ofthe White House would be the sta1fman. 31
+(U) Thomas Charles Huston, the evident object of the president's displeasure, was a young right-Wing lawyer who had been hired as an assistant to White House speech writer Patrick Buchanan. His only qualifications were political - he had been president of the Young Americans for Freedom, a conservative campus organization nationwide. And Huston wasn't even the key player. Hoover was named chair of the committee, in order to place him in a position in which the FBI would finally be forced to cpnfront domestic radicaHsm.S2 . .
+87 lOP SECRE+U""8RA
+
+
+ DOClD: 523696 REF lD:A523696
+"FGP SECRET UMBRA CRYPTOLOGIC QUARTERLY
+(U) The committee report confronted the issue, all right, and it laid out a number of "further steps," many of which were illegal. The report recommended increasing .wiretapping and microphone surveillance of radicals; relaxing restrictions on mail covers and mail. intercepts; carrying out selective break-ins against domestic radicals and organizations; lifting age restrictions on FBI campus informants; and broadening NSNs intercepts of the international communications of American citizens. But Hoover knew the score, and he attached footnotes to each of the techniques which he did not want the. FBI involved in. When it went to the president, it was carefully qualified by the FBI, the one organizations that would be the most involved."
+(U) The president sent word back to Huston, through Haldeman, of-his approval, but did not initiate any paperwork. So when the committee was tasked to implement the . recommendations,· it was tasked by Tom Charles Huston, not the president. Hoover informed John Mitchell, the attorney general, that he would not participate without a written order from Mitchell. Mitchell discussed this with Nixon, and both agreed that it would be too dangerous. Ultimately, the president voided the plan, but not before NSA had become directly involved in the seamier side of life.34
+(8 eeo~NSA was ambivalent. On the one hand, Gayler and his committee representative, Benson Bufiham, viewed it as a way to get Hoover to relax his damaging restrictions on break-ins and wiretaps. Gayler had personally pleaded with Hoover, to no avail; now the committee mechanism might force the stubborn director into a comer. But that was a legal matter for the FBI to sort out. When asked about intercepting the communications of Americans involved in domestic radicalism, Gayler and Buffham became more pensive. Th~y informed the committee that "NSA,currently interprets its jurisdictional mandate as precluding the production and dissemination of intelligence from communications between U.S. citizens, and as precluding specific targeting against communications of U.S. nationals;" Of course American names occasionally appeared in intercepted traffic, but use of even this incidental intercept needed to be regularized by a change to NSCIO 6.M As with the FBI, NSA wanted a legal leg to stand on.
+.JS.G€01 What stand did NSA take? Gayler genuinely wanted to be helpful, especially when the president so insisted on getting help; In meetings he seemed ready to turn NSA's legendary collection capability to the services of the Huston mandate. But his lawyers advised caution, and, according to Huston himself, NSA was more nervous than any of the other intelligence agencies. Gayler clearly wanted a legal mandate."
+(U) The White House Tapes
+(s-eeo) General Lew Allen, General Phillips's successor , came to the job with a strong admonition from his boss, Secretary of Defense James Schlesinger: stay as far away from Watergate as possible. He was aghast, then, when he learned on a Friday in January 1974 that a virtual army oflawyers was on its way to Fort Meade with the White House tapes. Howard Rosenblum, the director of research and engineering, had made it known that NSA might be able to analyze the infamous White House tapes which had been
+RAN DLE V IA lAtENT It! I HOLE eOM1MT eONTlt6L SYSTEMS ofOlN'I'L'l
+TOP SECRET UM81tA 88
+
+
+ DOClD: 523696 REFlD:A523696
+T9P SECRET UMBRA
+subpoenaed by the special prosecutor. They all arrived in staff cars on a Friday with boxes of tapes. NSA's experts went through the tapes for hours, then gave them back to the lawyers. They had found an eighteen-minute gap on one of the tapes. It appeared to be a deliberate erasure, as the tape had been gone over multiple times in a manner that did not support the president's contention that the erasure had been accidental."
+(U) THE ALLEN ERA AT NSA·
+(U) Occasionally a person's impact on events demands that the period be named after him or her. General Lew Allen was such a man. But the "Allen Era" did not actually begin with Allen.
+(U) In July 1972 Noel Gayler departed the Agency. He got a fourth star and became CINCPAC. Gayler, an upwardly mobile officer with high ambitions, was the first director to move up. NSA had always been a dead end, where mavericks could end their careers at an agency where mavericks were appreciated, even required. He was not to be the last rather, Noel Gayler was the first offour officers in succession who gained their fourth star and moved on. The second was his successor, Air Force li~utenant general Sam Phillips .
+.,rerPhillips came from a highly technical background. A fighter pilot in World War n, .he came to NSA from the Apollo program, where he had been the director. The visibility of the program, and the accolades that had been heaped on his management of it, indicated that he was destined for bigger things. According to one source, .he knew before he arri ved that he would stay only one year, and would move on to command the Air Force Systems Command as a four-star. general. However, his successor, Lew Allen, believed that Phillips became aware of NSA's vulnerability to the Watergate mess once he was ensconced and that this influenced his determination to move on.3I
+(U) Lew Allen came from the same sort of background; but more so. He had a doctorate in nuclear physics,had worked at Lawrence Livermore Laboratories; worked in the satellite collection business for the Air Force, and when nominated to be DlRNSA, was de facto director of the Intelligence Community (IC)Staff.
+(U) He had become a prot~ge of James Schlesinger, who had brought him onto the Ie Staff. But owing to a temporary feud between Schlesinger and Congress over whether the job should be civilianor military, Allen had not been confirmed. So when Schlesinger became secretary of defense, he asked Allen to become DIRNSA, a position that did not require congressional confirmation."
+(U) Lew Allen was easy to·like. His quick mind was covered over by a kindly demeanor and a slowness to anger. Even Stansfield Turner, who feuded endlessly with Allen's successor, Bobby Inman, wrote that Allen "particularly impressed me with a ·firm statement that the NSA took its direction on what information to collect from the Director of Central Intelligence. All I needed, he said, was to tell him what I wanted." 40 .
+fJA NDU: trIA TAbE~.fT KEYI EaL! GaMIN! CONTROL SYSTEMS JOINTLY
+89 TOP SECRET YMBRA
